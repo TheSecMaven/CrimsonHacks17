@@ -1,145 +1,50 @@
-{
-"selection1":[
-{
-"name":"1101 12th Street Tuscaloosa, AL 35401"
-},
-{
-"name":"3301 Loop Road Tuscaloosa, AL 35405"
-},
-{
-"name":"4801 Cypress Creek Avenue E. Tuscaloosa, AL 35405"
-},
-{
-"name":"608 Jack Warner Pkwy NE Tuscaloosa, AL 35404"
-},
-{
-"name":"1108 14th Ave Tuscaloosa, AL 35401"
-},
-{
-"name":"618 12th Street Tuscaloosa, AL 35401"
-},
-{
-"name":"1411 & 1415 Dearing Place Tuscaloosa, AL 35401"
-},
-{
-"name":"1925 8th Avenue Tuscaloosa, AL 35401"
-},
-{
-"name":"2433 Main Ave Northport, AL 35476"
-},
-{
-"name":"3301 Loop Road Tuscaloosa, AL 35405"
-},
-{
-"name":"5100 36th Ave East Tuscaloosa, AL 35405"
-},
-{
-"name":"5100 36th Ave East Tuscaloosa, AL 35405"
-},
-{
-"name":"1515 Kicker Road Tuscaloosa, AL 35404"
-},
-{
-"name":"1214 Bryant Drive Tuscaloosa, AL 35401"
-},
-{
-"name":"7651 Hwy 69 N Northport, AL 35473"
-},
-{
-"name":"1821 10th Ave Tuscaloosa, AL 35401"
-},
-{
-"name":"1821 10th Ave Tuscaloosa, AL 35401"
-},
-{
-"name":"415 Hargrove Rd Tuscaloosa, AL 35401"
-},
-{
-"name":"808 14th Avenue Tuscaloosa, AL 35401"
-},
-{
-"name":"1510 Paul W Bryant Dr Tuscaloosa, AL 35401"
-},
-{
-"name":"608 Jack Warner Pkwy NE Tuscaloosa, AL 35404"
-},
-{
-"name":"2300 5th Ave E Tuscaloosa, AL 35401"
-},
-{
-"name":"1411 & 1415 Dearing Place Tuscaloosa, AL 35401"
-},
-{
-"name":"1510 Paul W Bryant Dr Tuscaloosa, AL 35401"
-},
-{
-"name":"8th Ave NE Tuscaloosa, AL 35405"
-},
-{
-"name":"5100 36th Ave East Tuscaloosa, AL 35405"
-},
-{
-"name":"2433 Main Ave Northport, AL 35476"
-},
-{
-"name":"1214 12th Street Tuscaloosa, AL 35401"
-},
-{
-"name":"3301 Loop Road Tuscaloosa, AL 35405"
-},
-{
-"name":"608 Jack Warner Pkwy NE Tuscaloosa, AL 35404"
-},
-{
-"name":"5100 Old Birmingham Hwy Tuscaloosa, AL 35404"
-},
-{
-"name":"800 Energy Center Boulevard Northport, AL 35473"
-},
-{
-"name":"1420 8th Street Tuscaloosa, AL 35401"
-},
-{
-"name":"711 11th Street Tuscaloosa, AL 35401"
-},
-{
-"name":"48th Street East Tuscaloosa, AL 35405"
-},
-{
-"name":"5100 36th Ave East Tuscaloosa, AL 35405"
-},
-{
-"name":"5050 Cypress Creek Avenue Tuscaloosa, AL 35405"
-},
-{
-"name":"2201 48th Street East Tuscaloosa, AL 35405"
-},
-{
-"name":"5001 Cypress Creek Avenue Tuscaloosa, AL 35405"
-},
-{
-"name":"1800 Links Blvd. #7501 Tuscaloosa, AL 35405"
-},
-{
-"name":"1800 Links Blvd. #6700 Tuscaloosa, AL 35405"
-},
-{
-"name":"2433 Main Ave Northport, AL 35476"
-},
-{
-"name":"1402 9th Street Tuscaloosa, AL 35401"
-},
-{
-"name":"1425 8th Street Tuscaloosa, AL 35401"
-},
-{
-"name":"831 Red Drew Avenue Tuscaloosa, AL 35401"
-},
-{
-"name":"900 Hargrove Road Tuscaloosa, AL 35401"
-},
-{
-"name":"2433 Main Ave Northport, AL 35476"
+1101 12th Street Tuscaloosa, AL 35401
+3301 Loop Road Tuscaloosa, AL 35405
+4801 Cypress Creek Avenue E. Tuscaloosa, AL 35405"
+608 Jack Warner Pkwy NE Tuscaloosa, AL 35404"
+1108 14th Ave Tuscaloosa, AL 35401"
+618 12th Street Tuscaloosa, AL 35401"
+1411 & 1415 Dearing Place Tuscaloosa, AL 35401"
+1925 8th Avenue Tuscaloosa, AL 35401"
+2433 Main Ave Northport, AL 35476"
+3301 Loop Road Tuscaloosa, AL 35405"
+5100 36th Ave East Tuscaloosa, AL 35405"
+5100 36th Ave East Tuscaloosa, AL 35405"
+1515 Kicker Road Tuscaloosa, AL 35404"
+1214 Bryant Drive Tuscaloosa, AL 35401"
+7651 Hwy 69 N Northport, AL 35473"
+1821 10th Ave Tuscaloosa, AL 35401"
+1821 10th Ave Tuscaloosa, AL 35401"
+415 Hargrove Rd Tuscaloosa, AL 35401"
+808 14th Avenue Tuscaloosa, AL 35401"
+1510 Paul W Bryant Dr Tuscaloosa, AL 35401"
+608 Jack Warner Pkwy NE Tuscaloosa, AL 35404"
+2300 5th Ave E Tuscaloosa, AL 35401"
+1411 & 1415 Dearing Place Tuscaloosa, AL 35401"
+1510 Paul W Bryant Dr Tuscaloosa, AL 35401"
+8th Ave NE Tuscaloosa, AL 35405"
+5100 36th Ave East Tuscaloosa, AL 35405"
+2433 Main Ave Northport, AL 35476"
+1214 12th Street Tuscaloosa, AL 35401"
+3301 Loop Road Tuscaloosa, AL 35405"
+608 Jack Warner Pkwy NE Tuscaloosa, AL 35404"
+5100 Old Birmingham Hwy Tuscaloosa, AL 35404"
+800 Energy Center Boulevard Northport, AL 35473"
+1420 8th Street Tuscaloosa, AL 35401"
+711 11th Street Tuscaloosa, AL 35401"
+48th Street East Tuscaloosa, AL 35405"
+5100 36th Ave East Tuscaloosa, AL 35405"
+5050 Cypress Creek Avenue Tuscaloosa, AL 35405"
+2201 48th Street East Tuscaloosa, AL 35405"
+5001 Cypress Creek Avenue Tuscaloosa, AL 35405"
+1800 Links Blvd. #7501 Tuscaloosa, AL 35405"
+1800 Links Blvd. #6700 Tuscaloosa, AL 35405"
+2433 Main Ave Northport, AL 35476"
+1402 9th Street Tuscaloosa, AL 35401"
+1425 8th Street Tuscaloosa, AL 35401"
+831 Red Drew Avenue Tuscaloosa, AL 35401"
+900 Hargrove Road Tuscaloosa, AL 35401"
+2433 Main Ave Northport, AL 35476"
 },
 {
 "name":"1440 22nd Ave Tuscaloosa, AL 35404"
