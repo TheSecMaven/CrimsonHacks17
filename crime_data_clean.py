@@ -1,4 +1,4 @@
-l = open ("CRIME_DATA.TXT", "r").read().split('"')
+l = open ("crime_data_raw.txt, "r").read().split('"')
 l2 = []
 i = 0
 for e in l:

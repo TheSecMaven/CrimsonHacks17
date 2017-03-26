@@ -1,16 +1,10 @@
-# @Author: Miclain K <user>
-# @Date:   03-25-2017
-# @Last modified by:   user
-# @Last modified time: 03-25-2017
-
-
 from geopy.geocoders import Nominatim
 import json
 from pprint import pprint
 
 geolocator = Nominatim()
 
-list_of_apartments = open("lat_long_apartments.txt", 'w+')
+crime_data_compile = open("crime_data_clean.txt", 'w+')
 
 with open('run_results.txt') as infile:
     for line in infile:
