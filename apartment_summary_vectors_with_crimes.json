@@ -1,4 +1,4 @@
-{
+[{
     "longs": "-87.552103",
     "crimes": [{
         "date": " 03/24/2017",
@@ -24316,4 +24316,4 @@
     "name": "1117 18th Street",
     "lats": "33.195727554",
     "address": "1117 18th Street Tuscaloosa, AL 35401"
-},
+}]
