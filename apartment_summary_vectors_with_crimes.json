@@ -19,7 +19,7 @@
         "lats": "33.202657",
         "address": " 1300 11th Ave"
     }, {
-        "date": " Veh 02/08/2017",
+        "date": "  02/08/2017",
         "longs": "-87.5551383933",
         "type": "theft",
         "lats": "33.2053244625",
@@ -31,13 +31,13 @@
         "lats": "33.202865",
         "address": " 1100 13th St"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
         "address": " 2400 12th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.555341",
         "type": "robbery",
         "lats": "33.203007",
@@ -61,13 +61,13 @@
         "lats": "33.2041593508",
         "address": " 1200 Convent St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -79,7 +79,7 @@
         "lats": "33.205546",
         "address": " 1 University Cir"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -133,13 +133,13 @@
         "lats": "33.2053244625",
         "address": " 1100 14th Ave"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.555317",
         "type": "robbery",
         "lats": "33.207682",
         "address": " 1400 9th St"
     }, {
-        "date": " Veh 02/08/2017",
+        "date": "  02/08/2017",
         "longs": "-87.5551383933",
         "type": "theft",
         "lats": "33.2053244625",
@@ -163,7 +163,7 @@
         "lats": "33.20862",
         "address": " 1400 8th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.555341",
         "type": "robbery",
         "lats": "33.203007",
@@ -193,7 +193,7 @@
         "lats": "33.207781",
         "address": " 1500 9th St"
     }, {
-        "date": "\t11/20/2016",
+        "date": "11/20/2016",
         "longs": "-87.555105",
         "type": "robbery",
         "lats": "33.206476",
@@ -205,13 +205,13 @@
         "lats": "33.20455",
         "address": " 1 Oakwood Ct"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -223,7 +223,7 @@
         "lats": "33.205546",
         "address": " 1 University Cir"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -265,7 +265,7 @@
         "lats": "33.2057198",
         "address": " 1300 Paul W Bryant Dr"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
@@ -277,7 +277,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -307,7 +307,7 @@
         "lats": "33.201859",
         "address": " 1300 8th Ave"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -319,7 +319,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -409,7 +409,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -469,7 +469,7 @@
         "lats": "33.1997065569",
         "address": " 1600 15th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.555341",
         "type": "robbery",
         "lats": "33.203007",
@@ -493,19 +493,19 @@
         "lats": "33.20455",
         "address": " 1 Oakwood Ct"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -571,7 +571,7 @@
         "lats": "33.193209",
         "address": " 1000 Hargrove Rd"
     }, {
-        "date": " Veh 01/26/2017",
+        "date": "  01/26/2017",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -583,13 +583,13 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 01/07/2017",
+        "date": "  01/07/2017",
         "longs": "-87.548054",
         "type": "theft",
         "lats": "33.193626",
         "address": " 2000 8th Ave"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.551242",
         "type": "robbery",
         "lats": "33.193209",
@@ -601,7 +601,7 @@
         "lats": "33.194662",
         "address": " 2900 19th St"
     }, {
-        "date": " Veh 12/25/2016",
+        "date": "  12/25/2016",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -661,7 +661,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.5448059",
         "type": "theft",
         "lats": "33.194662",
@@ -775,13 +775,13 @@
         "lats": "33.192061",
         "address": " 1 Meadow Lawn"
     }, {
-        "date": " Veh 01/07/2017",
+        "date": "  01/07/2017",
         "longs": "-87.548054",
         "type": "theft",
         "lats": "33.193626",
         "address": " 2000 8th Ave"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.551242",
         "type": "robbery",
         "lats": "33.193209",
@@ -853,7 +853,7 @@
         "lats": "33.194467",
         "address": " 1900 10th Ave"
     }, {
-        "date": "\t09/30/2016",
+        "date": "09/30/2016",
         "longs": "-87.5515339",
         "type": "robbery",
         "lats": "33.198064",
@@ -871,7 +871,7 @@
 }, {
     "longs": "-87.541872",
     "crimes": [{
-        "date": " Veh 03/20/2017",
+        "date": "  03/20/2017",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -901,7 +901,7 @@
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": " Veh 03/12/2017",
+        "date": "  03/12/2017",
         "longs": "-87.5412",
         "type": "theft",
         "lats": "33.189321",
@@ -943,7 +943,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 01/26/2017",
+        "date": "  01/26/2017",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -967,7 +967,7 @@
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": "\t01/13/2017",
+        "date": "01/13/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -979,7 +979,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -991,7 +991,7 @@
         "lats": "33.189583",
         "address": " 2200 Prince Ave"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.543193",
         "type": "robbery",
         "lats": "33.194425",
@@ -1003,7 +1003,7 @@
         "lats": "33.190502506",
         "address": " 200 E Hargrove Rd"
     }, {
-        "date": " Veh 12/25/2016",
+        "date": "  12/25/2016",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -1021,7 +1021,7 @@
         "lats": "33.191969",
         "address": " 1100 Hargrove Rd"
     }, {
-        "date": " Veh 12/10/2016",
+        "date": "  12/10/2016",
         "longs": "-87.537965",
         "type": "theft",
         "lats": "33.189583",
@@ -1039,7 +1039,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 12/06/2016",
+        "date": "  12/06/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -1111,7 +1111,7 @@
         "lats": "33.188592",
         "address": " 700 E 23rd St"
     }, {
-        "date": "\t10/05/2016",
+        "date": "10/05/2016",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -1129,7 +1129,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 10/03/2016",
+        "date": "  10/03/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -1195,7 +1195,7 @@
         "lats": "33.208686",
         "address": " 1500 8th St"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.555317",
         "type": "robbery",
         "lats": "33.207682",
@@ -1213,7 +1213,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 02/08/2017",
+        "date": "  02/08/2017",
         "longs": "-87.5551383933",
         "type": "theft",
         "lats": "33.2053244625",
@@ -1225,7 +1225,7 @@
         "lats": "33.206618",
         "address": " 1000 16th Ave"
     }, {
-        "date": " Veh 02/05/2017",
+        "date": "  02/05/2017",
         "longs": "-87.553476",
         "type": "theft",
         "lats": "33.208636",
@@ -1273,9 +1273,9 @@
         "lats": "33.20862",
         "address": " 1400 8th St"
     }, {
-        "date": "\t01/20/2017",
+        "date": "01/20/2017",
         "longs": "-87.5525579",
-        "type": "unauthorized Use Of A Vehicle -- Unauthorized Use Of Truck-no Force",
+        "type": "unauthorized Use Of A icle -- Unauthorized Use Of Truck-no Force",
         "lats": "33.210116",
         "address": " 600 6th Street"
     }, {
@@ -1357,7 +1357,7 @@
         "lats": "33.208693",
         "address": " 1300 8th St"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -1375,7 +1375,7 @@
         "lats": "33.207781",
         "address": " 1500 9th St"
     }, {
-        "date": "\t11/20/2016",
+        "date": "11/20/2016",
         "longs": "-87.555105",
         "type": "robbery",
         "lats": "33.206476",
@@ -1387,7 +1387,7 @@
         "lats": "33.210995",
         "address": " 1200 University Blvd"
     }, {
-        "date": " Veh 11/12/2016",
+        "date": "  11/12/2016",
         "longs": "-87.5589919",
         "type": "theft",
         "lats": "33.210082",
@@ -1507,13 +1507,13 @@
         "lats": "33.209968012",
         "address": " 1100 6th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
@@ -1567,13 +1567,13 @@
         "lats": "33.2057198",
         "address": " 1300 Paul W Bryant Dr"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
         "address": " 800 12th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -1591,7 +1591,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -1603,7 +1603,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -1627,7 +1627,7 @@
         "lats": "33.2057198",
         "address": " 2500 Paul W Bryant Dr"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
@@ -1681,7 +1681,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -1753,7 +1753,7 @@
         "lats": "33.1997065569",
         "address": " 1600 15th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.555341",
         "type": "robbery",
         "lats": "33.203007",
@@ -1777,19 +1777,19 @@
         "lats": "33.20455",
         "address": " 1 Oakwood Ct"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -1825,13 +1825,13 @@
         "lats": "33.2057198",
         "address": " 1300 Paul W Bryant Dr"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
         "address": " 800 12th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -1849,7 +1849,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -1861,7 +1861,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -1885,7 +1885,7 @@
         "lats": "33.2057198",
         "address": " 2500 Paul W Bryant Dr"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
@@ -1939,7 +1939,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -1999,7 +1999,7 @@
         "lats": "33.202657",
         "address": " 1300 11th Ave"
     }, {
-        "date": " Veh 02/08/2017",
+        "date": "  02/08/2017",
         "longs": "-87.5551383933",
         "type": "theft",
         "lats": "33.2053244625",
@@ -2011,7 +2011,7 @@
         "lats": "33.202865",
         "address": " 1100 13th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.555341",
         "type": "robbery",
         "lats": "33.203007",
@@ -2035,7 +2035,7 @@
         "lats": "33.2041593508",
         "address": " 1200 Convent St"
     }, {
-        "date": "\t11/20/2016",
+        "date": "11/20/2016",
         "longs": "-87.555105",
         "type": "robbery",
         "lats": "33.206476",
@@ -2047,13 +2047,13 @@
         "lats": "33.20455",
         "address": " 1 Oakwood Ct"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -2065,7 +2065,7 @@
         "lats": "33.205546",
         "address": " 1 University Cir"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -2161,7 +2161,7 @@
         "lats": "33.208686",
         "address": " 1500 8th St"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.555317",
         "type": "robbery",
         "lats": "33.207682",
@@ -2173,7 +2173,7 @@
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": " Veh 02/08/2017",
+        "date": "  02/08/2017",
         "longs": "-87.5551383933",
         "type": "theft",
         "lats": "33.2053244625",
@@ -2185,7 +2185,7 @@
         "lats": "33.206618",
         "address": " 1000 16th Ave"
     }, {
-        "date": " Veh 02/05/2017",
+        "date": "  02/05/2017",
         "longs": "-87.553476",
         "type": "theft",
         "lats": "33.208636",
@@ -2221,9 +2221,9 @@
         "lats": "33.20862",
         "address": " 1400 8th St"
     }, {
-        "date": "\t01/20/2017",
+        "date": "01/20/2017",
         "longs": "-87.5525579",
-        "type": "unauthorized Use Of A Vehicle -- Unauthorized Use Of Truck-no Force",
+        "type": "unauthorized Use Of A icle -- Unauthorized Use Of Truck-no Force",
         "lats": "33.210116",
         "address": " 600 6th Street"
     }, {
@@ -2305,7 +2305,7 @@
         "lats": "33.207781",
         "address": " 1500 9th St"
     }, {
-        "date": "\t11/20/2016",
+        "date": "11/20/2016",
         "longs": "-87.555105",
         "type": "robbery",
         "lats": "33.206476",
@@ -2317,7 +2317,7 @@
         "lats": "33.210995",
         "address": " 1200 University Blvd"
     }, {
-        "date": " Veh 11/12/2016",
+        "date": "  11/12/2016",
         "longs": "-87.5589919",
         "type": "theft",
         "lats": "33.210082",
@@ -2425,13 +2425,13 @@
         "lats": "33.209968012",
         "address": " 1100 6th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
@@ -2485,7 +2485,7 @@
         "lats": "33.2057198",
         "address": " 1300 Paul W Bryant Dr"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
@@ -2497,7 +2497,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -2527,7 +2527,7 @@
         "lats": "33.201859",
         "address": " 1300 8th Ave"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -2539,7 +2539,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -2563,7 +2563,7 @@
         "lats": "33.2057198",
         "address": " 2500 Paul W Bryant Dr"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
@@ -2629,7 +2629,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -2737,7 +2737,7 @@
         "lats": "33.208686",
         "address": " 1500 8th St"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.555317",
         "type": "robbery",
         "lats": "33.207682",
@@ -2749,7 +2749,7 @@
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": " Veh 02/08/2017",
+        "date": "  02/08/2017",
         "longs": "-87.5551383933",
         "type": "theft",
         "lats": "33.2053244625",
@@ -2761,7 +2761,7 @@
         "lats": "33.206618",
         "address": " 1000 16th Ave"
     }, {
-        "date": " Veh 02/05/2017",
+        "date": "  02/05/2017",
         "longs": "-87.553476",
         "type": "theft",
         "lats": "33.208636",
@@ -2791,9 +2791,9 @@
         "lats": "33.20862",
         "address": " 1400 8th St"
     }, {
-        "date": "\t01/20/2017",
+        "date": "01/20/2017",
         "longs": "-87.5525579",
-        "type": "unauthorized Use Of A Vehicle -- Unauthorized Use Of Truck-no Force",
+        "type": "unauthorized Use Of A icle -- Unauthorized Use Of Truck-no Force",
         "lats": "33.210116",
         "address": " 600 6th Street"
     }, {
@@ -2875,7 +2875,7 @@
         "lats": "33.207781",
         "address": " 1500 9th St"
     }, {
-        "date": "\t11/20/2016",
+        "date": "11/20/2016",
         "longs": "-87.555105",
         "type": "robbery",
         "lats": "33.206476",
@@ -2983,13 +2983,13 @@
         "lats": "33.209968012",
         "address": " 1100 6th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
@@ -3073,7 +3073,7 @@
         "lats": "33.208686",
         "address": " 1500 8th St"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.555317",
         "type": "robbery",
         "lats": "33.207682",
@@ -3085,7 +3085,7 @@
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": " Veh 02/08/2017",
+        "date": "  02/08/2017",
         "longs": "-87.5551383933",
         "type": "theft",
         "lats": "33.2053244625",
@@ -3097,7 +3097,7 @@
         "lats": "33.206618",
         "address": " 1000 16th Ave"
     }, {
-        "date": " Veh 02/05/2017",
+        "date": "  02/05/2017",
         "longs": "-87.553476",
         "type": "theft",
         "lats": "33.208636",
@@ -3133,9 +3133,9 @@
         "lats": "33.20862",
         "address": " 1400 8th St"
     }, {
-        "date": "\t01/20/2017",
+        "date": "01/20/2017",
         "longs": "-87.5525579",
-        "type": "unauthorized Use Of A Vehicle -- Unauthorized Use Of Truck-no Force",
+        "type": "unauthorized Use Of A icle -- Unauthorized Use Of Truck-no Force",
         "lats": "33.210116",
         "address": " 600 6th Street"
     }, {
@@ -3217,7 +3217,7 @@
         "lats": "33.207781",
         "address": " 1500 9th St"
     }, {
-        "date": "\t11/20/2016",
+        "date": "11/20/2016",
         "longs": "-87.555105",
         "type": "robbery",
         "lats": "33.206476",
@@ -3229,7 +3229,7 @@
         "lats": "33.210995",
         "address": " 1200 University Blvd"
     }, {
-        "date": " Veh 11/12/2016",
+        "date": "  11/12/2016",
         "longs": "-87.5589919",
         "type": "theft",
         "lats": "33.210082",
@@ -3337,13 +3337,13 @@
         "lats": "33.209968012",
         "address": " 1100 6th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
@@ -3409,25 +3409,25 @@
         "lats": "33.193209",
         "address": " 1000 Hargrove Rd"
     }, {
-        "date": " Veh 01/26/2017",
+        "date": "  01/26/2017",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
         "address": " 600 E Hargrove Rd"
     }, {
-        "date": " Veh 01/07/2017",
+        "date": "  01/07/2017",
         "longs": "-87.548054",
         "type": "theft",
         "lats": "33.193626",
         "address": " 2000 8th Ave"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.551242",
         "type": "robbery",
         "lats": "33.193209",
         "address": " 1000 Hargrove Rd"
     }, {
-        "date": " Veh 12/25/2016",
+        "date": "  12/25/2016",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -3565,7 +3565,7 @@
         "lats": "33.193209",
         "address": " 1000 Hargrove Rd"
     }, {
-        "date": " Veh 01/26/2017",
+        "date": "  01/26/2017",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -3577,13 +3577,13 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 01/07/2017",
+        "date": "  01/07/2017",
         "longs": "-87.548054",
         "type": "theft",
         "lats": "33.193626",
         "address": " 2000 8th Ave"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.551242",
         "type": "robbery",
         "lats": "33.193209",
@@ -3595,7 +3595,7 @@
         "lats": "33.194662",
         "address": " 2900 19th St"
     }, {
-        "date": " Veh 12/25/2016",
+        "date": "  12/25/2016",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -3655,7 +3655,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.5448059",
         "type": "theft",
         "lats": "33.194662",
@@ -3727,7 +3727,7 @@
         "lats": "33.202657",
         "address": " 1300 11th Ave"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
@@ -3745,7 +3745,7 @@
         "lats": "33.201859",
         "address": " 1300 8th Ave"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
@@ -3757,19 +3757,19 @@
         "lats": "33.202779",
         "address": " 1000 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -3853,7 +3853,7 @@
         "lats": "33.2057198",
         "address": " 1300 Paul W Bryant Dr"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
@@ -3865,7 +3865,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -3889,7 +3889,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -3901,7 +3901,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -3985,7 +3985,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -4033,7 +4033,7 @@
         "lats": "33.2057198",
         "address": " 1300 Paul W Bryant Dr"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
@@ -4045,7 +4045,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -4069,7 +4069,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -4081,7 +4081,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -4165,7 +4165,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -4333,7 +4333,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -4393,7 +4393,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -4501,25 +4501,25 @@
         "lats": "33.193209",
         "address": " 1000 Hargrove Rd"
     }, {
-        "date": " Veh 01/26/2017",
+        "date": "  01/26/2017",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
         "address": " 600 E Hargrove Rd"
     }, {
-        "date": " Veh 01/07/2017",
+        "date": "  01/07/2017",
         "longs": "-87.548054",
         "type": "theft",
         "lats": "33.193626",
         "address": " 2000 8th Ave"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.551242",
         "type": "robbery",
         "lats": "33.193209",
         "address": " 1000 Hargrove Rd"
     }, {
-        "date": " Veh 12/25/2016",
+        "date": "  12/25/2016",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -4579,7 +4579,7 @@
 }, {
     "longs": "-87.561982",
     "crimes": [{
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.5643788279",
         "type": "theft",
         "lats": "33.2200048581",
@@ -4645,7 +4645,7 @@
         "lats": "33.208686",
         "address": " 1500 8th St"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.555317",
         "type": "robbery",
         "lats": "33.207682",
@@ -4657,7 +4657,7 @@
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": " Veh 02/08/2017",
+        "date": "  02/08/2017",
         "longs": "-87.5551383933",
         "type": "theft",
         "lats": "33.2053244625",
@@ -4669,7 +4669,7 @@
         "lats": "33.206618",
         "address": " 1000 16th Ave"
     }, {
-        "date": " Veh 02/05/2017",
+        "date": "  02/05/2017",
         "longs": "-87.553476",
         "type": "theft",
         "lats": "33.208636",
@@ -4705,9 +4705,9 @@
         "lats": "33.20862",
         "address": " 1400 8th St"
     }, {
-        "date": "\t01/20/2017",
+        "date": "01/20/2017",
         "longs": "-87.5525579",
-        "type": "unauthorized Use Of A Vehicle -- Unauthorized Use Of Truck-no Force",
+        "type": "unauthorized Use Of A icle -- Unauthorized Use Of Truck-no Force",
         "lats": "33.210116",
         "address": " 600 6th Street"
     }, {
@@ -4789,7 +4789,7 @@
         "lats": "33.207781",
         "address": " 1500 9th St"
     }, {
-        "date": "\t11/20/2016",
+        "date": "11/20/2016",
         "longs": "-87.555105",
         "type": "robbery",
         "lats": "33.206476",
@@ -4801,7 +4801,7 @@
         "lats": "33.210995",
         "address": " 1200 University Blvd"
     }, {
-        "date": " Veh 11/12/2016",
+        "date": "  11/12/2016",
         "longs": "-87.5589919",
         "type": "theft",
         "lats": "33.210082",
@@ -4909,13 +4909,13 @@
         "lats": "33.209968012",
         "address": " 1100 6th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
@@ -4969,7 +4969,7 @@
         "lats": "33.2057198",
         "address": " 1300 Paul W Bryant Dr"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
@@ -4981,7 +4981,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -5011,7 +5011,7 @@
         "lats": "33.201859",
         "address": " 1300 8th Ave"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -5023,7 +5023,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -5047,7 +5047,7 @@
         "lats": "33.2057198",
         "address": " 2500 Paul W Bryant Dr"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
@@ -5113,7 +5113,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -5185,7 +5185,7 @@
         "lats": "33.202657",
         "address": " 1300 11th Ave"
     }, {
-        "date": " Veh 02/08/2017",
+        "date": "  02/08/2017",
         "longs": "-87.5551383933",
         "type": "theft",
         "lats": "33.2053244625",
@@ -5197,13 +5197,13 @@
         "lats": "33.202865",
         "address": " 1100 13th St"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
         "address": " 2400 12th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.555341",
         "type": "robbery",
         "lats": "33.203007",
@@ -5227,13 +5227,13 @@
         "lats": "33.2041593508",
         "address": " 1200 Convent St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -5245,7 +5245,7 @@
         "lats": "33.205546",
         "address": " 1 University Cir"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -5335,7 +5335,7 @@
         "lats": "33.212795",
         "address": " 300 Helen Keller Blvd"
     }, {
-        "date": "\t01/22/2017",
+        "date": "01/22/2017",
         "longs": "-87.5204999",
         "type": "robbery",
         "lats": "33.212795",
@@ -5503,7 +5503,7 @@
         "lats": "33.2057198",
         "address": " 1300 Paul W Bryant Dr"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
@@ -5515,7 +5515,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -5545,7 +5545,7 @@
         "lats": "33.201859",
         "address": " 1300 8th Ave"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -5557,7 +5557,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -5647,7 +5647,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -5761,13 +5761,13 @@
         "lats": "33.209148",
         "address": " 2600 University Blvd"
     }, {
-        "date": "\t12/03/2016",
+        "date": "12/03/2016",
         "longs": "-87.5712662",
         "type": "possession Of A Controlled Substance -- Amphetamine-possess",
         "lats": "33.209567",
         "address": " 600 Lurleen B Wallace Blvd"
     }, {
-        "date": " Veh 12/02/2016",
+        "date": "  12/02/2016",
         "longs": "-87.574406",
         "type": "theft",
         "lats": "33.206064",
@@ -5863,7 +5863,7 @@
         "lats": "33.208686",
         "address": " 1500 8th St"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.555317",
         "type": "robbery",
         "lats": "33.207682",
@@ -5875,7 +5875,7 @@
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": " Veh 02/08/2017",
+        "date": "  02/08/2017",
         "longs": "-87.5551383933",
         "type": "theft",
         "lats": "33.2053244625",
@@ -5887,7 +5887,7 @@
         "lats": "33.206618",
         "address": " 1000 16th Ave"
     }, {
-        "date": " Veh 02/05/2017",
+        "date": "  02/05/2017",
         "longs": "-87.553476",
         "type": "theft",
         "lats": "33.208636",
@@ -5917,9 +5917,9 @@
         "lats": "33.20862",
         "address": " 1400 8th St"
     }, {
-        "date": "\t01/20/2017",
+        "date": "01/20/2017",
         "longs": "-87.5525579",
-        "type": "unauthorized Use Of A Vehicle -- Unauthorized Use Of Truck-no Force",
+        "type": "unauthorized Use Of A icle -- Unauthorized Use Of Truck-no Force",
         "lats": "33.210116",
         "address": " 600 6th Street"
     }, {
@@ -6001,7 +6001,7 @@
         "lats": "33.207781",
         "address": " 1500 9th St"
     }, {
-        "date": "\t11/20/2016",
+        "date": "11/20/2016",
         "longs": "-87.555105",
         "type": "robbery",
         "lats": "33.206476",
@@ -6109,13 +6109,13 @@
         "lats": "33.209968012",
         "address": " 1100 6th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
@@ -6163,7 +6163,7 @@
 }, {
     "longs": "-87.561982",
     "crimes": [{
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.5643788279",
         "type": "theft",
         "lats": "33.2200048581",
@@ -6187,19 +6187,19 @@
 }, {
     "longs": "-87.551506",
     "crimes": [{
-        "date": "\t03/20/2017",
+        "date": "03/20/2017",
         "longs": "-87.5489129",
         "type": "robbery",
         "lats": "33.184551",
         "address": " 4100 29th St"
     }, {
-        "date": " Veh 12/01/2016",
+        "date": "  12/01/2016",
         "longs": "-87.5489129",
         "type": "theft",
         "lats": "33.184551",
         "address": " 3500 29th St"
     }, {
-        "date": " Veh 11/18/2016",
+        "date": "  11/18/2016",
         "longs": "-87.5489129",
         "type": "theft",
         "lats": "33.184551",
@@ -6265,7 +6265,7 @@
         "lats": "33.2057198",
         "address": " 1300 Paul W Bryant Dr"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
@@ -6277,7 +6277,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -6307,7 +6307,7 @@
         "lats": "33.201859",
         "address": " 1300 8th Ave"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -6319,7 +6319,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -6343,7 +6343,7 @@
         "lats": "33.2057198",
         "address": " 2500 Paul W Bryant Dr"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
@@ -6409,7 +6409,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -6481,7 +6481,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -6523,7 +6523,7 @@
         "lats": "33.2007704654",
         "address": " 400 Meador Dr"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -6541,7 +6541,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -6577,7 +6577,7 @@
         "lats": "33.200128",
         "address": " 500 14th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.5426112172",
         "type": "robbery",
         "lats": "33.1989393826",
@@ -6655,7 +6655,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -6703,7 +6703,7 @@
         "lats": "33.2073245859",
         "address": " 1000 Queen City Ave"
     }, {
-        "date": " Veh 02/16/2017",
+        "date": "  02/16/2017",
         "longs": "-87.563155",
         "type": "theft",
         "lats": "33.207957",
@@ -6733,7 +6733,7 @@
         "lats": "33.2044999",
         "address": " 1700 23rd Ave"
     }, {
-        "date": " Veh 01/08/2017",
+        "date": "  01/08/2017",
         "longs": "-87.5632932",
         "type": "theft",
         "lats": "33.2048788",
@@ -6769,7 +6769,7 @@
         "lats": "33.207195",
         "address": " 2100 9th St"
     }, {
-        "date": "\t11/26/2016",
+        "date": "11/26/2016",
         "longs": "-87.564228",
         "type": "robbery",
         "lats": "33.206826",
@@ -6781,7 +6781,7 @@
         "lats": "33.210041",
         "address": " 2100 6th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.5650062",
         "type": "Receive St.n Pr",
         "lats": "33.2054544",
@@ -6889,13 +6889,13 @@
         "lats": "33.209148",
         "address": " 2600 University Blvd"
     }, {
-        "date": "\t12/03/2016",
+        "date": "12/03/2016",
         "longs": "-87.5712662",
         "type": "possession Of A Controlled Substance -- Amphetamine-possess",
         "lats": "33.209567",
         "address": " 600 Lurleen B Wallace Blvd"
     }, {
-        "date": " Veh 12/02/2016",
+        "date": "  12/02/2016",
         "longs": "-87.574406",
         "type": "theft",
         "lats": "33.206064",
@@ -6949,7 +6949,7 @@
 }, {
     "longs": "-87.561982",
     "crimes": [{
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.5643788279",
         "type": "theft",
         "lats": "33.2200048581",
@@ -7159,7 +7159,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -7219,7 +7219,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -7297,7 +7297,7 @@
 }, {
     "longs": "-87.5362867675",
     "crimes": [{
-        "date": "\t03/22/2017",
+        "date": "03/22/2017",
         "longs": "-87.5397735303",
         "type": "robbery",
         "lats": "33.1986699747",
@@ -7315,7 +7315,7 @@
         "lats": "33.1986475",
         "address": " 200 15th St"
     }, {
-        "date": " Veh 03/08/2017",
+        "date": "  03/08/2017",
         "longs": "-87.540292",
         "type": "theft",
         "lats": "33.198383",
@@ -7375,7 +7375,7 @@
         "lats": "33.197267",
         "address": " 1600 4th Ave"
     }, {
-        "date": "/progre\t12/22/2016",
+        "date": "/progre12/22/2016",
         "longs": "-87.539227",
         "type": "Burglary",
         "lats": "33.197353",
@@ -7399,7 +7399,7 @@
         "lats": "33.195968",
         "address": " 1200 17th St"
     }, {
-        "date": "\t11/13/2016",
+        "date": "11/13/2016",
         "longs": "-87.537851",
         "type": "robbery",
         "lats": "33.200236",
@@ -7435,7 +7435,7 @@
         "lats": "33.195968",
         "address": " 2900 17th St"
     }, {
-        "date": " Veh 10/17/2016",
+        "date": "  10/17/2016",
         "longs": "-87.539204",
         "type": "theft",
         "lats": "33.197142",
@@ -7531,7 +7531,7 @@
         "lats": "33.212795",
         "address": " 300 Helen Keller Blvd"
     }, {
-        "date": "\t01/22/2017",
+        "date": "01/22/2017",
         "longs": "-87.5204999",
         "type": "robbery",
         "lats": "33.212795",
@@ -7669,19 +7669,19 @@
 }, {
     "longs": "-87.551506",
     "crimes": [{
-        "date": "\t03/20/2017",
+        "date": "03/20/2017",
         "longs": "-87.5489129",
         "type": "robbery",
         "lats": "33.184551",
         "address": " 4100 29th St"
     }, {
-        "date": " Veh 12/01/2016",
+        "date": "  12/01/2016",
         "longs": "-87.5489129",
         "type": "theft",
         "lats": "33.184551",
         "address": " 3500 29th St"
     }, {
-        "date": " Veh 11/18/2016",
+        "date": "  11/18/2016",
         "longs": "-87.5489129",
         "type": "theft",
         "lats": "33.184551",
@@ -7711,7 +7711,7 @@
 }, {
     "longs": "-87.561982",
     "crimes": [{
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.5643788279",
         "type": "theft",
         "lats": "33.2200048581",
@@ -7759,7 +7759,7 @@
         "lats": "33.202657",
         "address": " 1300 11th Ave"
     }, {
-        "date": " Veh 03/19/2017",
+        "date": "  03/19/2017",
         "longs": "-87.552413",
         "type": "theft",
         "lats": "33.199444",
@@ -7813,19 +7813,19 @@
         "lats": "33.199361",
         "address": " 1000 15th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -7843,7 +7843,7 @@
         "lats": "33.201712",
         "address": " 1100 14th St"
     }, {
-        "date": "\t09/30/2016",
+        "date": "09/30/2016",
         "longs": "-87.5515339",
         "type": "robbery",
         "lats": "33.198064",
@@ -7867,7 +7867,7 @@
         "lats": "33.202657",
         "address": " 1300 11th Ave"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
@@ -7885,7 +7885,7 @@
         "lats": "33.201859",
         "address": " 1300 8th Ave"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
@@ -7897,13 +7897,13 @@
         "lats": "33.202779",
         "address": " 1000 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -7915,7 +7915,7 @@
         "lats": "33.205546",
         "address": " 1 University Cir"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -7993,7 +7993,7 @@
         "lats": "33.208686",
         "address": " 1500 8th St"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.555317",
         "type": "robbery",
         "lats": "33.207682",
@@ -8005,7 +8005,7 @@
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": " Veh 02/08/2017",
+        "date": "  02/08/2017",
         "longs": "-87.5551383933",
         "type": "theft",
         "lats": "33.2053244625",
@@ -8017,7 +8017,7 @@
         "lats": "33.206618",
         "address": " 1000 16th Ave"
     }, {
-        "date": " Veh 02/05/2017",
+        "date": "  02/05/2017",
         "longs": "-87.553476",
         "type": "theft",
         "lats": "33.208636",
@@ -8047,9 +8047,9 @@
         "lats": "33.20862",
         "address": " 1400 8th St"
     }, {
-        "date": "\t01/20/2017",
+        "date": "01/20/2017",
         "longs": "-87.5525579",
-        "type": "unauthorized Use Of A Vehicle -- Unauthorized Use Of Truck-no Force",
+        "type": "unauthorized Use Of A icle -- Unauthorized Use Of Truck-no Force",
         "lats": "33.210116",
         "address": " 600 6th Street"
     }, {
@@ -8131,7 +8131,7 @@
         "lats": "33.207781",
         "address": " 1500 9th St"
     }, {
-        "date": "\t11/20/2016",
+        "date": "11/20/2016",
         "longs": "-87.555105",
         "type": "robbery",
         "lats": "33.206476",
@@ -8239,13 +8239,13 @@
         "lats": "33.209968012",
         "address": " 1100 6th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
@@ -8287,7 +8287,7 @@
 }, {
     "longs": "-87.526422",
     "crimes": [{
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.52525",
         "type": "theft",
         "lats": "33.198577",
@@ -8347,7 +8347,7 @@
 }, {
     "longs": "-87.541872",
     "crimes": [{
-        "date": " Veh 03/20/2017",
+        "date": "  03/20/2017",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -8377,7 +8377,7 @@
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": " Veh 03/12/2017",
+        "date": "  03/12/2017",
         "longs": "-87.5412",
         "type": "theft",
         "lats": "33.189321",
@@ -8419,7 +8419,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 01/26/2017",
+        "date": "  01/26/2017",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -8443,7 +8443,7 @@
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": "\t01/13/2017",
+        "date": "01/13/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -8455,7 +8455,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -8467,7 +8467,7 @@
         "lats": "33.189583",
         "address": " 2200 Prince Ave"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.543193",
         "type": "robbery",
         "lats": "33.194425",
@@ -8479,7 +8479,7 @@
         "lats": "33.190502506",
         "address": " 200 E Hargrove Rd"
     }, {
-        "date": " Veh 12/25/2016",
+        "date": "  12/25/2016",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -8497,7 +8497,7 @@
         "lats": "33.191969",
         "address": " 1100 Hargrove Rd"
     }, {
-        "date": " Veh 12/10/2016",
+        "date": "  12/10/2016",
         "longs": "-87.537965",
         "type": "theft",
         "lats": "33.189583",
@@ -8515,7 +8515,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 12/06/2016",
+        "date": "  12/06/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -8587,7 +8587,7 @@
         "lats": "33.188592",
         "address": " 700 E 23rd St"
     }, {
-        "date": "\t10/05/2016",
+        "date": "10/05/2016",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -8605,7 +8605,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 10/03/2016",
+        "date": "  10/03/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -8653,7 +8653,7 @@
         "lats": "33.202657",
         "address": " 1300 11th Ave"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
@@ -8671,7 +8671,7 @@
         "lats": "33.201859",
         "address": " 1300 8th Ave"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
@@ -8683,13 +8683,13 @@
         "lats": "33.202779",
         "address": " 1000 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -8701,7 +8701,7 @@
         "lats": "33.205546",
         "address": " 1 University Cir"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -8731,7 +8731,7 @@
 }, {
     "longs": "-87.5665924406",
     "crimes": [{
-        "date": " Veh 02/16/2017",
+        "date": "  02/16/2017",
         "longs": "-87.563155",
         "type": "theft",
         "lats": "33.207957",
@@ -8755,7 +8755,7 @@
         "lats": "33.2044999",
         "address": " 1700 23rd Ave"
     }, {
-        "date": " Veh 01/08/2017",
+        "date": "  01/08/2017",
         "longs": "-87.5632932",
         "type": "theft",
         "lats": "33.2048788",
@@ -8791,7 +8791,7 @@
         "lats": "33.207195",
         "address": " 2100 9th St"
     }, {
-        "date": "\t11/26/2016",
+        "date": "11/26/2016",
         "longs": "-87.564228",
         "type": "robbery",
         "lats": "33.206826",
@@ -8803,7 +8803,7 @@
         "lats": "33.207562",
         "address": " 2500 7th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.5650062",
         "type": "Receive St.n Pr",
         "lats": "33.2054544",
@@ -8887,7 +8887,7 @@
         "lats": "33.209669",
         "address": " 500 Greensboro Ave"
     }, {
-        "date": "\t01/09/2017",
+        "date": "01/09/2017",
         "longs": "-87.5695632",
         "type": "robbery",
         "lats": "33.2116815",
@@ -8923,7 +8923,7 @@
         "lats": "33.2128374595",
         "address": " 2300 Jack Warner Parkway"
     }, {
-        "date": "\t12/03/2016",
+        "date": "12/03/2016",
         "longs": "-87.5712662",
         "type": "possession Of A Controlled Substance -- Amphetamine-possess",
         "lats": "33.209567",
@@ -8983,7 +8983,7 @@
         "lats": "33.211236",
         "address": " 2300 4th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.568989",
         "type": "theft",
         "lats": "33.211071",
@@ -9127,7 +9127,7 @@
         "lats": "33.212795",
         "address": " 300 Helen Keller Blvd"
     }, {
-        "date": "\t01/22/2017",
+        "date": "01/22/2017",
         "longs": "-87.5204999",
         "type": "robbery",
         "lats": "33.212795",
@@ -9295,13 +9295,13 @@
         "lats": "33.209148",
         "address": " 2600 University Blvd"
     }, {
-        "date": "\t12/03/2016",
+        "date": "12/03/2016",
         "longs": "-87.5712662",
         "type": "possession Of A Controlled Substance -- Amphetamine-possess",
         "lats": "33.209567",
         "address": " 600 Lurleen B Wallace Blvd"
     }, {
-        "date": " Veh 12/02/2016",
+        "date": "  12/02/2016",
         "longs": "-87.574406",
         "type": "theft",
         "lats": "33.206064",
@@ -9355,7 +9355,7 @@
         "lats": "33.2073245859",
         "address": " 1000 Queen City Ave"
     }, {
-        "date": " Veh 02/16/2017",
+        "date": "  02/16/2017",
         "longs": "-87.563155",
         "type": "theft",
         "lats": "33.207957",
@@ -9373,7 +9373,7 @@
         "lats": "33.2044999",
         "address": " 1700 23rd Ave"
     }, {
-        "date": " Veh 01/08/2017",
+        "date": "  01/08/2017",
         "longs": "-87.5632932",
         "type": "theft",
         "lats": "33.2048788",
@@ -9415,13 +9415,13 @@
         "lats": "33.207195",
         "address": " 2100 9th St"
     }, {
-        "date": "\t11/26/2016",
+        "date": "11/26/2016",
         "longs": "-87.564228",
         "type": "robbery",
         "lats": "33.206826",
         "address": " 2200 9th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.5650062",
         "type": "Receive St.n Pr",
         "lats": "33.2054544",
@@ -9433,7 +9433,7 @@
 }, {
     "longs": "-87.5230899",
     "crimes": [{
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.52525",
         "type": "theft",
         "lats": "33.198577",
@@ -9517,7 +9517,7 @@
         "lats": "33.200128",
         "address": " 500 14th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.5426112172",
         "type": "robbery",
         "lats": "33.1989393826",
@@ -9619,7 +9619,7 @@
         "lats": "33.2057198",
         "address": " 1300 Paul W Bryant Dr"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
@@ -9631,7 +9631,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -9661,7 +9661,7 @@
         "lats": "33.201859",
         "address": " 1300 8th Ave"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -9673,7 +9673,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -9697,7 +9697,7 @@
         "lats": "33.2057198",
         "address": " 2500 Paul W Bryant Dr"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
@@ -9763,7 +9763,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -9835,7 +9835,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -9877,7 +9877,7 @@
         "lats": "33.2007704654",
         "address": " 400 Meador Dr"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -9895,7 +9895,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -9931,7 +9931,7 @@
         "lats": "33.200128",
         "address": " 500 14th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.5426112172",
         "type": "robbery",
         "lats": "33.1989393826",
@@ -10009,7 +10009,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -10057,7 +10057,7 @@
 }, {
     "longs": "-87.526422",
     "crimes": [{
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.52525",
         "type": "theft",
         "lats": "33.198577",
@@ -10099,7 +10099,7 @@
         "lats": "33.2057198",
         "address": " 1300 Paul W Bryant Dr"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
@@ -10111,7 +10111,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -10141,7 +10141,7 @@
         "lats": "33.201859",
         "address": " 1300 8th Ave"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -10153,7 +10153,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -10177,7 +10177,7 @@
         "lats": "33.2057198",
         "address": " 2500 Paul W Bryant Dr"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
@@ -10243,7 +10243,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -10279,7 +10279,7 @@
 }, {
     "longs": "-87.5665924406",
     "crimes": [{
-        "date": " Veh 02/16/2017",
+        "date": "  02/16/2017",
         "longs": "-87.563155",
         "type": "theft",
         "lats": "33.207957",
@@ -10303,7 +10303,7 @@
         "lats": "33.2044999",
         "address": " 1700 23rd Ave"
     }, {
-        "date": " Veh 01/08/2017",
+        "date": "  01/08/2017",
         "longs": "-87.5632932",
         "type": "theft",
         "lats": "33.2048788",
@@ -10339,7 +10339,7 @@
         "lats": "33.207195",
         "address": " 2100 9th St"
     }, {
-        "date": "\t11/26/2016",
+        "date": "11/26/2016",
         "longs": "-87.564228",
         "type": "robbery",
         "lats": "33.206826",
@@ -10351,7 +10351,7 @@
         "lats": "33.207562",
         "address": " 2500 7th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.5650062",
         "type": "Receive St.n Pr",
         "lats": "33.2054544",
@@ -10435,7 +10435,7 @@
         "lats": "33.209669",
         "address": " 500 Greensboro Ave"
     }, {
-        "date": "\t01/09/2017",
+        "date": "01/09/2017",
         "longs": "-87.5695632",
         "type": "robbery",
         "lats": "33.2116815",
@@ -10471,7 +10471,7 @@
         "lats": "33.2128374595",
         "address": " 2300 Jack Warner Parkway"
     }, {
-        "date": "\t12/03/2016",
+        "date": "12/03/2016",
         "longs": "-87.5712662",
         "type": "possession Of A Controlled Substance -- Amphetamine-possess",
         "lats": "33.209567",
@@ -10531,7 +10531,7 @@
         "lats": "33.211236",
         "address": " 2300 4th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.568989",
         "type": "theft",
         "lats": "33.211071",
@@ -10591,7 +10591,7 @@
         "lats": "33.2073245859",
         "address": " 1000 Queen City Ave"
     }, {
-        "date": " Veh 02/16/2017",
+        "date": "  02/16/2017",
         "longs": "-87.563155",
         "type": "theft",
         "lats": "33.207957",
@@ -10609,7 +10609,7 @@
         "lats": "33.2044999",
         "address": " 1700 23rd Ave"
     }, {
-        "date": " Veh 01/08/2017",
+        "date": "  01/08/2017",
         "longs": "-87.5632932",
         "type": "theft",
         "lats": "33.2048788",
@@ -10651,13 +10651,13 @@
         "lats": "33.207195",
         "address": " 2100 9th St"
     }, {
-        "date": "\t11/26/2016",
+        "date": "11/26/2016",
         "longs": "-87.564228",
         "type": "robbery",
         "lats": "33.206826",
         "address": " 2200 9th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.5650062",
         "type": "Receive St.n Pr",
         "lats": "33.2054544",
@@ -10753,7 +10753,7 @@
         "lats": "33.200128",
         "address": " 500 14th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.5426112172",
         "type": "robbery",
         "lats": "33.1989393826",
@@ -10831,7 +10831,7 @@
 }, {
     "longs": "-87.526422",
     "crimes": [{
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.52525",
         "type": "theft",
         "lats": "33.198577",
@@ -10843,19 +10843,19 @@
 }, {
     "longs": "-87.551506",
     "crimes": [{
-        "date": "\t03/20/2017",
+        "date": "03/20/2017",
         "longs": "-87.5489129",
         "type": "robbery",
         "lats": "33.184551",
         "address": " 4100 29th St"
     }, {
-        "date": " Veh 12/01/2016",
+        "date": "  12/01/2016",
         "longs": "-87.5489129",
         "type": "theft",
         "lats": "33.184551",
         "address": " 3500 29th St"
     }, {
-        "date": " Veh 11/18/2016",
+        "date": "  11/18/2016",
         "longs": "-87.5489129",
         "type": "theft",
         "lats": "33.184551",
@@ -10993,7 +10993,7 @@
         "lats": "33.200128",
         "address": " 500 14th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.5426112172",
         "type": "robbery",
         "lats": "33.1989393826",
@@ -11083,7 +11083,7 @@
         "lats": "33.202657",
         "address": " 1300 11th Ave"
     }, {
-        "date": " Veh 03/19/2017",
+        "date": "  03/19/2017",
         "longs": "-87.552413",
         "type": "theft",
         "lats": "33.199444",
@@ -11137,19 +11137,19 @@
         "lats": "33.199361",
         "address": " 1000 15th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -11167,7 +11167,7 @@
         "lats": "33.201712",
         "address": " 1100 14th St"
     }, {
-        "date": "\t09/30/2016",
+        "date": "09/30/2016",
         "longs": "-87.5515339",
         "type": "robbery",
         "lats": "33.198064",
@@ -11185,19 +11185,19 @@
 }, {
     "longs": "-87.551506",
     "crimes": [{
-        "date": "\t03/20/2017",
+        "date": "03/20/2017",
         "longs": "-87.5489129",
         "type": "robbery",
         "lats": "33.184551",
         "address": " 4100 29th St"
     }, {
-        "date": " Veh 12/01/2016",
+        "date": "  12/01/2016",
         "longs": "-87.5489129",
         "type": "theft",
         "lats": "33.184551",
         "address": " 3500 29th St"
     }, {
-        "date": " Veh 11/18/2016",
+        "date": "  11/18/2016",
         "longs": "-87.5489129",
         "type": "theft",
         "lats": "33.184551",
@@ -11227,7 +11227,7 @@
 }, {
     "longs": "-87.5362867675",
     "crimes": [{
-        "date": "\t03/22/2017",
+        "date": "03/22/2017",
         "longs": "-87.5397735303",
         "type": "robbery",
         "lats": "33.1986699747",
@@ -11245,7 +11245,7 @@
         "lats": "33.1986475",
         "address": " 200 15th St"
     }, {
-        "date": " Veh 03/08/2017",
+        "date": "  03/08/2017",
         "longs": "-87.540292",
         "type": "theft",
         "lats": "33.198383",
@@ -11305,7 +11305,7 @@
         "lats": "33.197267",
         "address": " 1600 4th Ave"
     }, {
-        "date": "/progre\t12/22/2016",
+        "date": "/progre12/22/2016",
         "longs": "-87.539227",
         "type": "Burglary",
         "lats": "33.197353",
@@ -11329,7 +11329,7 @@
         "lats": "33.195968",
         "address": " 1200 17th St"
     }, {
-        "date": "\t11/13/2016",
+        "date": "11/13/2016",
         "longs": "-87.537851",
         "type": "robbery",
         "lats": "33.200236",
@@ -11365,7 +11365,7 @@
         "lats": "33.195968",
         "address": " 2900 17th St"
     }, {
-        "date": " Veh 10/17/2016",
+        "date": "  10/17/2016",
         "longs": "-87.539204",
         "type": "theft",
         "lats": "33.197142",
@@ -11395,7 +11395,7 @@
 }, {
     "longs": "-87.5403084163",
     "crimes": [{
-        "date": " Veh 03/20/2017",
+        "date": "  03/20/2017",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -11425,7 +11425,7 @@
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": " Veh 03/12/2017",
+        "date": "  03/12/2017",
         "longs": "-87.5412",
         "type": "theft",
         "lats": "33.189321",
@@ -11491,7 +11491,7 @@
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": "\t01/13/2017",
+        "date": "01/13/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -11503,7 +11503,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -11527,7 +11527,7 @@
         "lats": "33.191969",
         "address": " 1100 Hargrove Rd"
     }, {
-        "date": " Veh 12/10/2016",
+        "date": "  12/10/2016",
         "longs": "-87.537965",
         "type": "theft",
         "lats": "33.189583",
@@ -11545,7 +11545,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 12/06/2016",
+        "date": "  12/06/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -11617,7 +11617,7 @@
         "lats": "33.188592",
         "address": " 700 E 23rd St"
     }, {
-        "date": "\t10/05/2016",
+        "date": "10/05/2016",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -11635,7 +11635,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 10/03/2016",
+        "date": "  10/03/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -11671,7 +11671,7 @@
         "lats": "33.2073245859",
         "address": " 1000 Queen City Ave"
     }, {
-        "date": " Veh 02/16/2017",
+        "date": "  02/16/2017",
         "longs": "-87.563155",
         "type": "theft",
         "lats": "33.207957",
@@ -11689,7 +11689,7 @@
         "lats": "33.2044999",
         "address": " 1700 23rd Ave"
     }, {
-        "date": " Veh 01/08/2017",
+        "date": "  01/08/2017",
         "longs": "-87.5632932",
         "type": "theft",
         "lats": "33.2048788",
@@ -11731,13 +11731,13 @@
         "lats": "33.207195",
         "address": " 2100 9th St"
     }, {
-        "date": "\t11/26/2016",
+        "date": "11/26/2016",
         "longs": "-87.564228",
         "type": "robbery",
         "lats": "33.206826",
         "address": " 2200 9th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.5650062",
         "type": "Receive St.n Pr",
         "lats": "33.2054544",
@@ -11749,7 +11749,7 @@
 }, {
     "longs": "-87.5230899",
     "crimes": [{
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.52525",
         "type": "theft",
         "lats": "33.198577",
@@ -11851,7 +11851,7 @@
         "lats": "33.200128",
         "address": " 500 14th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.5426112172",
         "type": "robbery",
         "lats": "33.1989393826",
@@ -11947,7 +11947,7 @@
         "lats": "33.2073245859",
         "address": " 1000 Queen City Ave"
     }, {
-        "date": " Veh 02/16/2017",
+        "date": "  02/16/2017",
         "longs": "-87.563155",
         "type": "theft",
         "lats": "33.207957",
@@ -11971,7 +11971,7 @@
         "lats": "33.2044999",
         "address": " 1700 23rd Ave"
     }, {
-        "date": " Veh 01/08/2017",
+        "date": "  01/08/2017",
         "longs": "-87.5632932",
         "type": "theft",
         "lats": "33.2048788",
@@ -12013,13 +12013,13 @@
         "lats": "33.207195",
         "address": " 2100 9th St"
     }, {
-        "date": "\t11/26/2016",
+        "date": "11/26/2016",
         "longs": "-87.564228",
         "type": "robbery",
         "lats": "33.206826",
         "address": " 2200 9th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.5650062",
         "type": "Receive St.n Pr",
         "lats": "33.2054544",
@@ -12031,7 +12031,7 @@
 }, {
     "longs": "-87.5665924406",
     "crimes": [{
-        "date": " Veh 02/16/2017",
+        "date": "  02/16/2017",
         "longs": "-87.563155",
         "type": "theft",
         "lats": "33.207957",
@@ -12055,7 +12055,7 @@
         "lats": "33.2044999",
         "address": " 1700 23rd Ave"
     }, {
-        "date": " Veh 01/08/2017",
+        "date": "  01/08/2017",
         "longs": "-87.5632932",
         "type": "theft",
         "lats": "33.2048788",
@@ -12091,7 +12091,7 @@
         "lats": "33.207195",
         "address": " 2100 9th St"
     }, {
-        "date": "\t11/26/2016",
+        "date": "11/26/2016",
         "longs": "-87.564228",
         "type": "robbery",
         "lats": "33.206826",
@@ -12103,7 +12103,7 @@
         "lats": "33.207562",
         "address": " 2500 7th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.5650062",
         "type": "Receive St.n Pr",
         "lats": "33.2054544",
@@ -12193,7 +12193,7 @@
         "lats": "33.209669",
         "address": " 500 Greensboro Ave"
     }, {
-        "date": "\t01/09/2017",
+        "date": "01/09/2017",
         "longs": "-87.5695632",
         "type": "robbery",
         "lats": "33.2116815",
@@ -12229,7 +12229,7 @@
         "lats": "33.2128374595",
         "address": " 2300 Jack Warner Parkway"
     }, {
-        "date": "\t12/03/2016",
+        "date": "12/03/2016",
         "longs": "-87.5712662",
         "type": "possession Of A Controlled Substance -- Amphetamine-possess",
         "lats": "33.209567",
@@ -12289,7 +12289,7 @@
         "lats": "33.211236",
         "address": " 2300 4th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.568989",
         "type": "theft",
         "lats": "33.211071",
@@ -12463,7 +12463,7 @@
         "lats": "33.209669",
         "address": " 500 Greensboro Ave"
     }, {
-        "date": "\t01/09/2017",
+        "date": "01/09/2017",
         "longs": "-87.5695632",
         "type": "robbery",
         "lats": "33.2116815",
@@ -12577,7 +12577,7 @@
         "lats": "33.211236",
         "address": " 2300 4th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.568989",
         "type": "theft",
         "lats": "33.211071",
@@ -12619,7 +12619,7 @@
         "lats": "33.211071",
         "address": " 300 Greensboro Ave"
     }, {
-        "date": " Veh 10/14/2016",
+        "date": "  10/14/2016",
         "longs": "-87.5655855",
         "type": "theft",
         "lats": "33.2106728",
@@ -12727,7 +12727,7 @@
         "lats": "33.209669",
         "address": " 500 Greensboro Ave"
     }, {
-        "date": "\t01/09/2017",
+        "date": "01/09/2017",
         "longs": "-87.5695632",
         "type": "robbery",
         "lats": "33.2116815",
@@ -12763,7 +12763,7 @@
         "lats": "33.2128374595",
         "address": " 2300 Jack Warner Parkway"
     }, {
-        "date": "\t12/03/2016",
+        "date": "12/03/2016",
         "longs": "-87.5712662",
         "type": "possession Of A Controlled Substance -- Amphetamine-possess",
         "lats": "33.209567",
@@ -12823,7 +12823,7 @@
         "lats": "33.211236",
         "address": " 2300 4th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.568989",
         "type": "theft",
         "lats": "33.211071",
@@ -12919,7 +12919,7 @@
         "lats": "33.21106",
         "address": " 400 23rd Ave"
     }, {
-        "date": " Veh 02/16/2017",
+        "date": "  02/16/2017",
         "longs": "-87.563155",
         "type": "theft",
         "lats": "33.207957",
@@ -13075,7 +13075,7 @@
         "lats": "33.211236",
         "address": " 2300 4th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.568989",
         "type": "theft",
         "lats": "33.211071",
@@ -13093,7 +13093,7 @@
         "lats": "33.211071",
         "address": " 300 Greensboro Ave"
     }, {
-        "date": " Veh 10/14/2016",
+        "date": "  10/14/2016",
         "longs": "-87.5655855",
         "type": "theft",
         "lats": "33.2106728",
@@ -13147,13 +13147,13 @@
         "lats": "33.202657",
         "address": " 1300 11th Ave"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.555317",
         "type": "robbery",
         "lats": "33.207682",
         "address": " 1400 9th St"
     }, {
-        "date": " Veh 02/08/2017",
+        "date": "  02/08/2017",
         "longs": "-87.5551383933",
         "type": "theft",
         "lats": "33.2053244625",
@@ -13171,7 +13171,7 @@
         "lats": "33.202865",
         "address": " 1100 13th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.555341",
         "type": "robbery",
         "lats": "33.203007",
@@ -13189,7 +13189,7 @@
         "lats": "33.2041593508",
         "address": " 1200 Convent St"
     }, {
-        "date": "\t11/20/2016",
+        "date": "11/20/2016",
         "longs": "-87.555105",
         "type": "robbery",
         "lats": "33.206476",
@@ -13201,13 +13201,13 @@
         "lats": "33.20455",
         "address": " 1 Oakwood Ct"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -13219,7 +13219,7 @@
         "lats": "33.205546",
         "address": " 1 University Cir"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -13321,7 +13321,7 @@
         "lats": "33.209669",
         "address": " 500 Greensboro Ave"
     }, {
-        "date": "\t01/09/2017",
+        "date": "01/09/2017",
         "longs": "-87.5695632",
         "type": "robbery",
         "lats": "33.2116815",
@@ -13357,7 +13357,7 @@
         "lats": "33.2128374595",
         "address": " 2300 Jack Warner Parkway"
     }, {
-        "date": "\t12/03/2016",
+        "date": "12/03/2016",
         "longs": "-87.5712662",
         "type": "possession Of A Controlled Substance -- Amphetamine-possess",
         "lats": "33.209567",
@@ -13417,7 +13417,7 @@
         "lats": "33.211236",
         "address": " 2300 4th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.568989",
         "type": "theft",
         "lats": "33.211071",
@@ -13543,7 +13543,7 @@
         "lats": "33.209669",
         "address": " 500 Greensboro Ave"
     }, {
-        "date": "\t01/09/2017",
+        "date": "01/09/2017",
         "longs": "-87.5695632",
         "type": "robbery",
         "lats": "33.2116815",
@@ -13579,7 +13579,7 @@
         "lats": "33.2128374595",
         "address": " 2300 Jack Warner Parkway"
     }, {
-        "date": "\t12/03/2016",
+        "date": "12/03/2016",
         "longs": "-87.5712662",
         "type": "possession Of A Controlled Substance -- Amphetamine-possess",
         "lats": "33.209567",
@@ -13639,7 +13639,7 @@
         "lats": "33.211236",
         "address": " 2300 4th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.568989",
         "type": "theft",
         "lats": "33.211071",
@@ -13729,7 +13729,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -13771,7 +13771,7 @@
         "lats": "33.2007704654",
         "address": " 400 Meador Dr"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -13789,7 +13789,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -13825,7 +13825,7 @@
         "lats": "33.200128",
         "address": " 500 14th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.5426112172",
         "type": "robbery",
         "lats": "33.1989393826",
@@ -13903,7 +13903,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -13957,7 +13957,7 @@
 }, {
     "longs": "-87.5230899",
     "crimes": [{
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.52525",
         "type": "theft",
         "lats": "33.198577",
@@ -14113,7 +14113,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -14173,7 +14173,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -14263,7 +14263,7 @@
         "lats": "33.202657",
         "address": " 1300 11th Ave"
     }, {
-        "date": " Veh 03/19/2017",
+        "date": "  03/19/2017",
         "longs": "-87.552413",
         "type": "theft",
         "lats": "33.199444",
@@ -14317,19 +14317,19 @@
         "lats": "33.199361",
         "address": " 1000 15th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -14347,7 +14347,7 @@
         "lats": "33.201712",
         "address": " 1100 14th St"
     }, {
-        "date": "\t09/30/2016",
+        "date": "09/30/2016",
         "longs": "-87.5515339",
         "type": "robbery",
         "lats": "33.198064",
@@ -14395,7 +14395,7 @@
         "lats": "33.210995",
         "address": " 1200 University Blvd"
     }, {
-        "date": " Veh 02/07/2017",
+        "date": "  02/07/2017",
         "longs": "-87.559013",
         "type": "theft",
         "lats": "33.21407",
@@ -14515,7 +14515,7 @@
         "lats": "33.2133472449",
         "address": " 400 Grace St"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -14617,7 +14617,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -14659,7 +14659,7 @@
         "lats": "33.2007704654",
         "address": " 400 Meador Dr"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -14677,7 +14677,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -14713,7 +14713,7 @@
         "lats": "33.200128",
         "address": " 500 14th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.5426112172",
         "type": "robbery",
         "lats": "33.1989393826",
@@ -14791,7 +14791,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -14839,7 +14839,7 @@
 }, {
     "longs": "-87.5402946945",
     "crimes": [{
-        "date": "\t03/22/2017",
+        "date": "03/22/2017",
         "longs": "-87.5397735303",
         "type": "robbery",
         "lats": "33.1986699747",
@@ -14863,7 +14863,7 @@
         "lats": "33.1986475",
         "address": " 200 15th St"
     }, {
-        "date": " Veh 03/08/2017",
+        "date": "  03/08/2017",
         "longs": "-87.540292",
         "type": "theft",
         "lats": "33.198383",
@@ -14899,7 +14899,7 @@
         "lats": "33.195968",
         "address": " 1100 17th St"
     }, {
-        "date": " Veh 02/03/2017",
+        "date": "  02/03/2017",
         "longs": "-87.541692",
         "type": "theft",
         "lats": "33.197598",
@@ -14971,7 +14971,7 @@
         "lats": "33.197267",
         "address": " 1600 4th Ave"
     }, {
-        "date": "/progre\t12/22/2016",
+        "date": "/progre12/22/2016",
         "longs": "-87.539227",
         "type": "Burglary",
         "lats": "33.197353",
@@ -14989,7 +14989,7 @@
         "lats": "33.195968",
         "address": " 1100 17th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.5426112172",
         "type": "robbery",
         "lats": "33.1989393826",
@@ -15019,7 +15019,7 @@
         "lats": "33.195968",
         "address": " 1200 17th St"
     }, {
-        "date": "\t11/13/2016",
+        "date": "11/13/2016",
         "longs": "-87.537851",
         "type": "robbery",
         "lats": "33.200236",
@@ -15097,7 +15097,7 @@
         "lats": "33.195968",
         "address": " 2900 17th St"
     }, {
-        "date": " Veh 10/17/2016",
+        "date": "  10/17/2016",
         "longs": "-87.539204",
         "type": "theft",
         "lats": "33.197142",
@@ -15151,7 +15151,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St."
     }, {
-        "date": " Veh 03/20/2017",
+        "date": "  03/20/2017",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -15199,7 +15199,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 02/03/2017",
+        "date": "  02/03/2017",
         "longs": "-87.541692",
         "type": "theft",
         "lats": "33.197598",
@@ -15223,7 +15223,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 01/26/2017",
+        "date": "  01/26/2017",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -15259,7 +15259,7 @@
         "lats": "33.195047",
         "address": " 500 18th St"
     }, {
-        "date": "\t01/13/2017",
+        "date": "01/13/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -15277,13 +15277,13 @@
         "lats": "33.196062",
         "address": " 300 E 17th St"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.543193",
         "type": "robbery",
         "lats": "33.194425",
@@ -15295,7 +15295,7 @@
         "lats": "33.194662",
         "address": " 2900 19th St"
     }, {
-        "date": " Veh 12/25/2016",
+        "date": "  12/25/2016",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -15331,7 +15331,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 12/06/2016",
+        "date": "  12/06/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -15343,7 +15343,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 11/28/2016",
+        "date": "  11/28/2016",
         "longs": "-87.542046",
         "type": "theft",
         "lats": "33.195047",
@@ -15379,7 +15379,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.5448059",
         "type": "theft",
         "lats": "33.194662",
@@ -15403,7 +15403,7 @@
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": "\t10/05/2016",
+        "date": "10/05/2016",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -15421,7 +15421,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 10/03/2016",
+        "date": "  10/03/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -15493,7 +15493,7 @@
         "lats": "33.210995",
         "address": " 1200 University Blvd"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.555317",
         "type": "robbery",
         "lats": "33.207682",
@@ -15511,7 +15511,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 02/05/2017",
+        "date": "  02/05/2017",
         "longs": "-87.553476",
         "type": "theft",
         "lats": "33.208636",
@@ -15571,9 +15571,9 @@
         "lats": "33.20862",
         "address": " 1400 8th St"
     }, {
-        "date": "\t01/20/2017",
+        "date": "01/20/2017",
         "longs": "-87.5525579",
-        "type": "unauthorized Use Of A Vehicle -- Unauthorized Use Of Truck-no Force",
+        "type": "unauthorized Use Of A icle -- Unauthorized Use Of Truck-no Force",
         "lats": "33.210116",
         "address": " 600 6th Street"
     }, {
@@ -15661,7 +15661,7 @@
         "lats": "33.208693",
         "address": " 1300 8th St"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -15781,13 +15781,13 @@
         "lats": "33.209968012",
         "address": " 1100 6th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
@@ -15937,9 +15937,9 @@
         "lats": "33.20862",
         "address": " 1400 8th St"
     }, {
-        "date": "\t01/20/2017",
+        "date": "01/20/2017",
         "longs": "-87.5525579",
-        "type": "unauthorized Use Of A Vehicle -- Unauthorized Use Of Truck-no Force",
+        "type": "unauthorized Use Of A icle -- Unauthorized Use Of Truck-no Force",
         "lats": "33.210116",
         "address": " 600 6th Street"
     }, {
@@ -16039,7 +16039,7 @@
         "lats": "33.208693",
         "address": " 1300 8th St"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -16057,7 +16057,7 @@
         "lats": "33.210995",
         "address": " 1200 University Blvd"
     }, {
-        "date": " Veh 11/12/2016",
+        "date": "  11/12/2016",
         "longs": "-87.5589919",
         "type": "theft",
         "lats": "33.210082",
@@ -16117,7 +16117,7 @@
         "lats": "33.208686",
         "address": " 1500 8th St"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -16261,7 +16261,7 @@
         "lats": "33.210995",
         "address": " 1200 University Blvd"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.555317",
         "type": "robbery",
         "lats": "33.207682",
@@ -16279,7 +16279,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 02/05/2017",
+        "date": "  02/05/2017",
         "longs": "-87.553476",
         "type": "theft",
         "lats": "33.208636",
@@ -16339,9 +16339,9 @@
         "lats": "33.20862",
         "address": " 1400 8th St"
     }, {
-        "date": "\t01/20/2017",
+        "date": "01/20/2017",
         "longs": "-87.5525579",
-        "type": "unauthorized Use Of A Vehicle -- Unauthorized Use Of Truck-no Force",
+        "type": "unauthorized Use Of A icle -- Unauthorized Use Of Truck-no Force",
         "lats": "33.210116",
         "address": " 600 6th Street"
     }, {
@@ -16429,7 +16429,7 @@
         "lats": "33.208693",
         "address": " 1300 8th St"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -16549,13 +16549,13 @@
         "lats": "33.209968012",
         "address": " 1100 6th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
         "address": " 1100 8th St"
     }, {
-        "date": "\t10/02/2016",
+        "date": "10/02/2016",
         "longs": "-87.552351",
         "type": "robbery",
         "lats": "33.208576",
@@ -16723,7 +16723,7 @@
         "lats": "33.2133472449",
         "address": " 400 Grace St"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -16813,7 +16813,7 @@
         "lats": "33.209582",
         "address": " 1500 7th St"
     }, {
-        "date": "\t03/03/2017",
+        "date": "03/03/2017",
         "longs": "-87.5604879",
         "type": "Receive St.n Pr",
         "lats": "33.209699",
@@ -16849,13 +16849,13 @@
         "lats": "33.212085",
         "address": " 1800 University Blvd"
     }, {
-        "date": " Veh 02/07/2017",
+        "date": "  02/07/2017",
         "longs": "-87.559013",
         "type": "theft",
         "lats": "33.21407",
         "address": " 200 17th Ave"
     }, {
-        "date": " Veh 01/27/2017",
+        "date": "  01/27/2017",
         "longs": "-87.5604879",
         "type": "theft",
         "lats": "33.209699",
@@ -16933,7 +16933,7 @@
         "lats": "33.211921",
         "address": " 500 Queen City Ave"
     }, {
-        "date": "\t12/06/2016",
+        "date": "12/06/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -16957,7 +16957,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": "\t11/18/2016",
+        "date": "11/18/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -16969,7 +16969,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": " Veh 11/12/2016",
+        "date": "  11/12/2016",
         "longs": "-87.5589919",
         "type": "theft",
         "lats": "33.210082",
@@ -16999,7 +16999,7 @@
         "lats": "33.208686",
         "address": " 1500 8th St"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -17191,7 +17191,7 @@
         "lats": "33.2133472449",
         "address": " 400 Grace St"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -17377,7 +17377,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -17437,7 +17437,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -17635,7 +17635,7 @@
         "lats": "33.2133472449",
         "address": " 400 Grace St"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -17725,7 +17725,7 @@
         "lats": "33.209582",
         "address": " 1500 7th St"
     }, {
-        "date": "\t03/03/2017",
+        "date": "03/03/2017",
         "longs": "-87.5604879",
         "type": "Receive St.n Pr",
         "lats": "33.209699",
@@ -17761,13 +17761,13 @@
         "lats": "33.212085",
         "address": " 1800 University Blvd"
     }, {
-        "date": " Veh 02/07/2017",
+        "date": "  02/07/2017",
         "longs": "-87.559013",
         "type": "theft",
         "lats": "33.21407",
         "address": " 200 17th Ave"
     }, {
-        "date": " Veh 01/27/2017",
+        "date": "  01/27/2017",
         "longs": "-87.5604879",
         "type": "theft",
         "lats": "33.209699",
@@ -17845,7 +17845,7 @@
         "lats": "33.211921",
         "address": " 500 Queen City Ave"
     }, {
-        "date": "\t12/06/2016",
+        "date": "12/06/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -17869,7 +17869,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": "\t11/18/2016",
+        "date": "11/18/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -17881,7 +17881,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": " Veh 11/12/2016",
+        "date": "  11/12/2016",
         "longs": "-87.5589919",
         "type": "theft",
         "lats": "33.210082",
@@ -17983,7 +17983,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St."
     }, {
-        "date": " Veh 03/20/2017",
+        "date": "  03/20/2017",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -18031,7 +18031,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 02/03/2017",
+        "date": "  02/03/2017",
         "longs": "-87.541692",
         "type": "theft",
         "lats": "33.197598",
@@ -18055,7 +18055,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 01/26/2017",
+        "date": "  01/26/2017",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -18091,7 +18091,7 @@
         "lats": "33.195047",
         "address": " 500 18th St"
     }, {
-        "date": "\t01/13/2017",
+        "date": "01/13/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -18103,13 +18103,13 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.543193",
         "type": "robbery",
         "lats": "33.194425",
@@ -18121,7 +18121,7 @@
         "lats": "33.194662",
         "address": " 2900 19th St"
     }, {
-        "date": " Veh 12/25/2016",
+        "date": "  12/25/2016",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -18157,7 +18157,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 12/06/2016",
+        "date": "  12/06/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -18169,7 +18169,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 11/28/2016",
+        "date": "  11/28/2016",
         "longs": "-87.542046",
         "type": "theft",
         "lats": "33.195047",
@@ -18199,7 +18199,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.5448059",
         "type": "theft",
         "lats": "33.194662",
@@ -18217,7 +18217,7 @@
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": "\t10/05/2016",
+        "date": "10/05/2016",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -18235,7 +18235,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 10/03/2016",
+        "date": "  10/03/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -18391,7 +18391,7 @@
         "lats": "33.2133472449",
         "address": " 400 Grace St"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -18577,7 +18577,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -18637,7 +18637,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -18835,7 +18835,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -18895,7 +18895,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -18973,7 +18973,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St."
     }, {
-        "date": " Veh 03/20/2017",
+        "date": "  03/20/2017",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -19021,7 +19021,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 02/03/2017",
+        "date": "  02/03/2017",
         "longs": "-87.541692",
         "type": "theft",
         "lats": "33.197598",
@@ -19045,7 +19045,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 01/26/2017",
+        "date": "  01/26/2017",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -19081,7 +19081,7 @@
         "lats": "33.195047",
         "address": " 500 18th St"
     }, {
-        "date": "\t01/13/2017",
+        "date": "01/13/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -19099,13 +19099,13 @@
         "lats": "33.196062",
         "address": " 300 E 17th St"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.543193",
         "type": "robbery",
         "lats": "33.194425",
@@ -19117,7 +19117,7 @@
         "lats": "33.194662",
         "address": " 2900 19th St"
     }, {
-        "date": " Veh 12/25/2016",
+        "date": "  12/25/2016",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -19153,7 +19153,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 12/06/2016",
+        "date": "  12/06/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -19165,7 +19165,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 11/28/2016",
+        "date": "  11/28/2016",
         "longs": "-87.542046",
         "type": "theft",
         "lats": "33.195047",
@@ -19201,7 +19201,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.5448059",
         "type": "theft",
         "lats": "33.194662",
@@ -19225,7 +19225,7 @@
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": "\t10/05/2016",
+        "date": "10/05/2016",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -19243,7 +19243,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 10/03/2016",
+        "date": "  10/03/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -19303,7 +19303,7 @@
         "lats": "33.209582",
         "address": " 1500 7th St"
     }, {
-        "date": "\t03/03/2017",
+        "date": "03/03/2017",
         "longs": "-87.5604879",
         "type": "Receive St.n Pr",
         "lats": "33.209699",
@@ -19339,13 +19339,13 @@
         "lats": "33.212085",
         "address": " 1800 University Blvd"
     }, {
-        "date": " Veh 02/07/2017",
+        "date": "  02/07/2017",
         "longs": "-87.559013",
         "type": "theft",
         "lats": "33.21407",
         "address": " 200 17th Ave"
     }, {
-        "date": " Veh 01/27/2017",
+        "date": "  01/27/2017",
         "longs": "-87.5604879",
         "type": "theft",
         "lats": "33.209699",
@@ -19423,7 +19423,7 @@
         "lats": "33.211921",
         "address": " 500 Queen City Ave"
     }, {
-        "date": "\t12/06/2016",
+        "date": "12/06/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -19447,7 +19447,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": "\t11/18/2016",
+        "date": "11/18/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -19459,7 +19459,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": " Veh 11/12/2016",
+        "date": "  11/12/2016",
         "longs": "-87.5589919",
         "type": "theft",
         "lats": "33.210082",
@@ -19489,7 +19489,7 @@
         "lats": "33.208686",
         "address": " 1500 8th St"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -19681,7 +19681,7 @@
         "lats": "33.2133472449",
         "address": " 400 Grace St"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -19753,7 +19753,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St."
     }, {
-        "date": " Veh 03/20/2017",
+        "date": "  03/20/2017",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -19813,7 +19813,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 02/03/2017",
+        "date": "  02/03/2017",
         "longs": "-87.541692",
         "type": "theft",
         "lats": "33.197598",
@@ -19837,7 +19837,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 01/26/2017",
+        "date": "  01/26/2017",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -19873,7 +19873,7 @@
         "lats": "33.195047",
         "address": " 500 18th St"
     }, {
-        "date": "\t01/13/2017",
+        "date": "01/13/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -19891,13 +19891,13 @@
         "lats": "33.196062",
         "address": " 300 E 17th St"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.543193",
         "type": "robbery",
         "lats": "33.194425",
@@ -19909,7 +19909,7 @@
         "lats": "33.194662",
         "address": " 2900 19th St"
     }, {
-        "date": " Veh 12/25/2016",
+        "date": "  12/25/2016",
         "longs": "-87.545069",
         "type": "theft",
         "lats": "33.192449",
@@ -19933,7 +19933,7 @@
         "lats": "33.192449",
         "address": " 600 E Hargrove Rd"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.5426112172",
         "type": "robbery",
         "lats": "33.1989393826",
@@ -19963,7 +19963,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 12/06/2016",
+        "date": "  12/06/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -19975,7 +19975,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 11/28/2016",
+        "date": "  11/28/2016",
         "longs": "-87.542046",
         "type": "theft",
         "lats": "33.195047",
@@ -20005,7 +20005,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.5448059",
         "type": "theft",
         "lats": "33.194662",
@@ -20041,7 +20041,7 @@
         "lats": "33.191969",
         "address": " 1300 Hargrove Rd"
     }, {
-        "date": "\t10/05/2016",
+        "date": "10/05/2016",
         "longs": "-87.5428929",
         "type": "robbery",
         "lats": "33.191969",
@@ -20065,7 +20065,7 @@
         "lats": "33.191969",
         "address": " 1100 E Hargrove Rd"
     }, {
-        "date": " Veh 10/03/2016",
+        "date": "  10/03/2016",
         "longs": "-87.5428929",
         "type": "theft",
         "lats": "33.191969",
@@ -20155,7 +20155,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 01/07/2017",
+        "date": "  01/07/2017",
         "longs": "-87.548054",
         "type": "theft",
         "lats": "33.193626",
@@ -20209,7 +20209,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.5448059",
         "type": "theft",
         "lats": "33.194662",
@@ -20371,7 +20371,7 @@
         "lats": "33.2133472449",
         "address": " 400 Grace St"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -20449,7 +20449,7 @@
         "lats": "33.21085",
         "address": " 500 21st Ave\"."
     }, {
-        "date": "\t03/03/2017",
+        "date": "03/03/2017",
         "longs": "-87.5604879",
         "type": "Receive St.n Pr",
         "lats": "33.209699",
@@ -20503,7 +20503,7 @@
         "lats": "33.211023",
         "address": " 2100 University Blvd"
     }, {
-        "date": " Veh 02/07/2017",
+        "date": "  02/07/2017",
         "longs": "-87.559013",
         "type": "theft",
         "lats": "33.21407",
@@ -20515,7 +20515,7 @@
         "lats": "33.209862",
         "address": " 600 21st Ave"
     }, {
-        "date": " Veh 01/27/2017",
+        "date": "  01/27/2017",
         "longs": "-87.5604879",
         "type": "theft",
         "lats": "33.209699",
@@ -20569,7 +20569,7 @@
         "lats": "33.211921",
         "address": " 500 Queen City Ave"
     }, {
-        "date": "\t12/06/2016",
+        "date": "12/06/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -20605,7 +20605,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": "\t11/18/2016",
+        "date": "11/18/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -20617,7 +20617,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": " Veh 11/12/2016",
+        "date": "  11/12/2016",
         "longs": "-87.5589919",
         "type": "theft",
         "lats": "33.210082",
@@ -20653,7 +20653,7 @@
         "lats": "33.209699",
         "address": " 1700 Queen City Ave"
     }, {
-        "date": " Veh 10/14/2016",
+        "date": "  10/14/2016",
         "longs": "-87.5655855",
         "type": "theft",
         "lats": "33.2106728",
@@ -20707,7 +20707,7 @@
         "lats": "33.21085",
         "address": " 500 21st Ave\"."
     }, {
-        "date": "\t03/03/2017",
+        "date": "03/03/2017",
         "longs": "-87.5604879",
         "type": "Receive St.n Pr",
         "lats": "33.209699",
@@ -20761,7 +20761,7 @@
         "lats": "33.211023",
         "address": " 2100 University Blvd"
     }, {
-        "date": " Veh 02/07/2017",
+        "date": "  02/07/2017",
         "longs": "-87.559013",
         "type": "theft",
         "lats": "33.21407",
@@ -20773,7 +20773,7 @@
         "lats": "33.209862",
         "address": " 600 21st Ave"
     }, {
-        "date": " Veh 01/27/2017",
+        "date": "  01/27/2017",
         "longs": "-87.5604879",
         "type": "theft",
         "lats": "33.209699",
@@ -20827,7 +20827,7 @@
         "lats": "33.211921",
         "address": " 500 Queen City Ave"
     }, {
-        "date": "\t12/06/2016",
+        "date": "12/06/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -20863,7 +20863,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": "\t11/18/2016",
+        "date": "11/18/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -20875,7 +20875,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": " Veh 11/12/2016",
+        "date": "  11/12/2016",
         "longs": "-87.5589919",
         "type": "theft",
         "lats": "33.210082",
@@ -20911,7 +20911,7 @@
         "lats": "33.209699",
         "address": " 1700 Queen City Ave"
     }, {
-        "date": " Veh 10/14/2016",
+        "date": "  10/14/2016",
         "longs": "-87.5655855",
         "type": "theft",
         "lats": "33.2106728",
@@ -21007,7 +21007,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 01/07/2017",
+        "date": "  01/07/2017",
         "longs": "-87.548054",
         "type": "theft",
         "lats": "33.193626",
@@ -21061,7 +21061,7 @@
         "lats": "33.195586",
         "address": " 3200 18th St"
     }, {
-        "date": " Veh 11/02/2016",
+        "date": "  11/02/2016",
         "longs": "-87.5448059",
         "type": "theft",
         "lats": "33.194662",
@@ -21223,7 +21223,7 @@
         "lats": "33.2133472449",
         "address": " 400 Grace St"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -21409,7 +21409,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -21469,7 +21469,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -21667,7 +21667,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -21727,7 +21727,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -21925,7 +21925,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -21985,7 +21985,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -22075,13 +22075,13 @@
         "lats": "33.202657",
         "address": " 1300 11th Ave"
     }, {
-        "date": " Veh 03/19/2017",
+        "date": "  03/19/2017",
         "longs": "-87.552413",
         "type": "theft",
         "lats": "33.199444",
         "address": " 1100 15th St"
     }, {
-        "date": " Veh 02/08/2017",
+        "date": "  02/08/2017",
         "longs": "-87.5551383933",
         "type": "theft",
         "lats": "33.2053244625",
@@ -22093,13 +22093,13 @@
         "lats": "33.202865",
         "address": " 1100 13th St"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
         "address": " 2400 12th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.555341",
         "type": "robbery",
         "lats": "33.203007",
@@ -22123,13 +22123,13 @@
         "lats": "33.2041593508",
         "address": " 1200 Convent St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
         "address": " 1100 E 13th St"
     }, {
-        "date": " Veh 11/05/2016",
+        "date": "  11/05/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -22141,7 +22141,7 @@
         "lats": "33.205546",
         "address": " 1 University Cir"
     }, {
-        "date": " Veh 10/23/2016",
+        "date": "  10/23/2016",
         "longs": "-87.552175",
         "type": "theft",
         "lats": "33.202865",
@@ -22303,7 +22303,7 @@
         "lats": "33.2133472449",
         "address": " 400 Grace St"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -22489,7 +22489,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -22549,7 +22549,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -22645,7 +22645,7 @@
         "lats": "33.21085",
         "address": " 500 21st Ave\"."
     }, {
-        "date": "\t03/03/2017",
+        "date": "03/03/2017",
         "longs": "-87.5604879",
         "type": "Receive St.n Pr",
         "lats": "33.209699",
@@ -22699,7 +22699,7 @@
         "lats": "33.211023",
         "address": " 2100 University Blvd"
     }, {
-        "date": " Veh 02/07/2017",
+        "date": "  02/07/2017",
         "longs": "-87.559013",
         "type": "theft",
         "lats": "33.21407",
@@ -22711,7 +22711,7 @@
         "lats": "33.209862",
         "address": " 600 21st Ave"
     }, {
-        "date": " Veh 01/27/2017",
+        "date": "  01/27/2017",
         "longs": "-87.5604879",
         "type": "theft",
         "lats": "33.209699",
@@ -22765,7 +22765,7 @@
         "lats": "33.211921",
         "address": " 500 Queen City Ave"
     }, {
-        "date": "\t12/06/2016",
+        "date": "12/06/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -22801,7 +22801,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": "\t11/18/2016",
+        "date": "11/18/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -22813,7 +22813,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": " Veh 11/12/2016",
+        "date": "  11/12/2016",
         "longs": "-87.5589919",
         "type": "theft",
         "lats": "33.210082",
@@ -22849,7 +22849,7 @@
         "lats": "33.209699",
         "address": " 1700 Queen City Ave"
     }, {
-        "date": " Veh 10/14/2016",
+        "date": "  10/14/2016",
         "longs": "-87.5655855",
         "type": "theft",
         "lats": "33.2106728",
@@ -22915,7 +22915,7 @@
         "lats": "33.2057198",
         "address": " 1300 Paul W Bryant Dr"
     }, {
-        "date": "\t02/21/2017",
+        "date": "02/21/2017",
         "longs": "-87.54737",
         "type": "robbery",
         "lats": "33.203784",
@@ -22927,7 +22927,7 @@
         "lats": "33.20246",
         "address": " 600 13th St"
     }, {
-        "date": " Veh 02/21/2017",
+        "date": "  02/21/2017",
         "longs": "-87.545716",
         "type": "theft",
         "lats": "33.204854",
@@ -22957,7 +22957,7 @@
         "lats": "33.201859",
         "address": " 1300 8th Ave"
     }, {
-        "date": "\t01/18/2017",
+        "date": "01/18/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -22969,7 +22969,7 @@
         "lats": "33.202541",
         "address": " 700 13th St"
     }, {
-        "date": "\t01/14/2017",
+        "date": "01/14/2017",
         "longs": "-87.5430748",
         "type": "robbery",
         "lats": "33.2057198",
@@ -22993,7 +22993,7 @@
         "lats": "33.2057198",
         "address": " 2500 Paul W Bryant Dr"
     }, {
-        "date": " Veh 12/27/2016",
+        "date": "  12/27/2016",
         "longs": "-87.5487897",
         "type": "theft",
         "lats": "33.2037525",
@@ -23059,7 +23059,7 @@
         "lats": "33.203695",
         "address": " 700 12th St"
     }, {
-        "date": "\t10/15/2016",
+        "date": "10/15/2016",
         "longs": "-87.544073",
         "type": "robbery",
         "lats": "33.205257",
@@ -23119,7 +23119,7 @@
         "lats": "33.21085",
         "address": " 500 21st Ave\"."
     }, {
-        "date": "\t03/03/2017",
+        "date": "03/03/2017",
         "longs": "-87.5604879",
         "type": "Receive St.n Pr",
         "lats": "33.209699",
@@ -23173,7 +23173,7 @@
         "lats": "33.211023",
         "address": " 2100 University Blvd"
     }, {
-        "date": " Veh 02/07/2017",
+        "date": "  02/07/2017",
         "longs": "-87.559013",
         "type": "theft",
         "lats": "33.21407",
@@ -23185,7 +23185,7 @@
         "lats": "33.209862",
         "address": " 600 21st Ave"
     }, {
-        "date": " Veh 01/27/2017",
+        "date": "  01/27/2017",
         "longs": "-87.5604879",
         "type": "theft",
         "lats": "33.209699",
@@ -23239,7 +23239,7 @@
         "lats": "33.211921",
         "address": " 500 Queen City Ave"
     }, {
-        "date": "\t12/06/2016",
+        "date": "12/06/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -23275,7 +23275,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": "\t11/18/2016",
+        "date": "11/18/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -23287,7 +23287,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": " Veh 11/12/2016",
+        "date": "  11/12/2016",
         "longs": "-87.5589919",
         "type": "theft",
         "lats": "33.210082",
@@ -23323,7 +23323,7 @@
         "lats": "33.209699",
         "address": " 1700 Queen City Ave"
     }, {
-        "date": " Veh 10/14/2016",
+        "date": "  10/14/2016",
         "longs": "-87.5655855",
         "type": "theft",
         "lats": "33.2106728",
@@ -23413,7 +23413,7 @@
         "lats": "33.2107915557",
         "address": " 1100 University Blvd"
     }, {
-        "date": " Veh 02/07/2017",
+        "date": "  02/07/2017",
         "longs": "-87.559013",
         "type": "theft",
         "lats": "33.21407",
@@ -23473,9 +23473,9 @@
         "lats": "33.20862",
         "address": " 1400 8th St"
     }, {
-        "date": "\t01/20/2017",
+        "date": "01/20/2017",
         "longs": "-87.5525579",
-        "type": "unauthorized Use Of A Vehicle -- Unauthorized Use Of Truck-no Force",
+        "type": "unauthorized Use Of A icle -- Unauthorized Use Of Truck-no Force",
         "lats": "33.210116",
         "address": " 600 6th Street"
     }, {
@@ -23575,7 +23575,7 @@
         "lats": "33.208693",
         "address": " 1300 8th St"
     }, {
-        "date": " Veh 11/27/2016",
+        "date": "  11/27/2016",
         "longs": "-87.5526118634",
         "type": "theft",
         "lats": "33.2107915557",
@@ -23593,7 +23593,7 @@
         "lats": "33.210995",
         "address": " 1200 University Blvd"
     }, {
-        "date": " Veh 11/12/2016",
+        "date": "  11/12/2016",
         "longs": "-87.5589919",
         "type": "theft",
         "lats": "33.210082",
@@ -23653,7 +23653,7 @@
         "lats": "33.208686",
         "address": " 1500 8th St"
     }, {
-        "date": "\t10/22/2016",
+        "date": "10/22/2016",
         "longs": "-87.5559383189",
         "type": "robbery",
         "lats": "33.2142559563",
@@ -23881,7 +23881,7 @@
         "lats": "33.211236",
         "address": " 2300 4th St"
     }, {
-        "date": "\t12/06/2016",
+        "date": "12/06/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -23917,7 +23917,7 @@
         "lats": "33.211815",
         "address": " 1900 University Blvd"
     }, {
-        "date": "\t11/18/2016",
+        "date": "11/18/2016",
         "longs": "-87.5622359",
         "type": "criminal Trespass Third Degree -- Enters/remains In/on Premises",
         "lats": "33.213654",
@@ -23965,7 +23965,7 @@
         "lats": "33.210322",
         "address": " 2300 University Blvd"
     }, {
-        "date": " Veh 10/14/2016",
+        "date": "  10/14/2016",
         "longs": "-87.5655855",
         "type": "theft",
         "lats": "33.2106728",
@@ -24007,7 +24007,7 @@
 }, {
     "longs": "-87.5389611813",
     "crimes": [{
-        "date": "\t03/22/2017",
+        "date": "03/22/2017",
         "longs": "-87.5397735303",
         "type": "robbery",
         "lats": "33.1986699747",
@@ -24025,7 +24025,7 @@
         "lats": "33.1986475",
         "address": " 200 15th St"
     }, {
-        "date": " Veh 03/08/2017",
+        "date": "  03/08/2017",
         "longs": "-87.540292",
         "type": "theft",
         "lats": "33.198383",
@@ -24079,19 +24079,19 @@
         "lats": "33.199868",
         "address": " 400 Wesley Pl"
     }, {
-        "date": "/progre\t12/22/2016",
+        "date": "/progre12/22/2016",
         "longs": "-87.539227",
         "type": "Burglary",
         "lats": "33.197353",
         "address": " 300 16th St"
     }, {
-        "date": "\t12/12/2016",
+        "date": "12/12/2016",
         "longs": "-87.5426112172",
         "type": "robbery",
         "lats": "33.1989393826",
         "address": " 500 15th St"
     }, {
-        "date": "\t11/13/2016",
+        "date": "11/13/2016",
         "longs": "-87.537851",
         "type": "robbery",
         "lats": "33.200236",
@@ -24223,7 +24223,7 @@
         "lats": "33.197901",
         "address": " 1600 14th Ave"
     }, {
-        "date": "\t01/02/2017",
+        "date": "01/02/2017",
         "longs": "-87.551242",
         "type": "robbery",
         "lats": "33.193209",
@@ -24307,7 +24307,7 @@
         "lats": "33.19699",
         "address": " 1700 14th Ave"
     }, {
-        "date": "\t09/30/2016",
+        "date": "09/30/2016",
         "longs": "-87.5515339",
         "type": "robbery",
         "lats": "33.198064",
