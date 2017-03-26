@@ -14,7 +14,7 @@ outfile = open('apartment_summary_vectors.json','w')
 with open('lat_long_apartments.txt') as infile:
     all_lats = [line.split(',')[0] for line in infile.readlines()]
 with open('lat_long_apartments.txt') as infile2:
-    all_longs = [line.split(',')[1] for line in infile2.readlines()]
+    all_longs = [line.strip().split(',')[1] for line in infile2.readlines()]
 with open('run_results.txt') as f:
     all_addresses = [line.strip() for line in f.readlines()]
 
@@ -27,7 +27,7 @@ with open('complex_names_cleaned.txt') as names:
     #    all_names[line] = {'address': all_addresses[count],'lat_long': all_lat_longs[count+1s]}
     #    count+=1
     for name in all_names:
-        json.dump({'name': name, 'address': all_addresses[count], 'lat': all_lats[count+1],'long': all_longs[count+1]}, outfile)
+        json.dump({'name': name, 'address': all_addresses[count], 'lats': all_lats[count+1],'longs': all_longs[count+1]}, outfile)
         count=count+1
 #for x in all_names:
 #    for y in all_names[x]:
