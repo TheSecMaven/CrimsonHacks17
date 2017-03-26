@@ -26,5 +26,6 @@ with open('crime_data_clean.json') as crime_data1:
                 if (vincenty(crime_lat_long, apartment_long_lat).miles) <= .25:
                     apartments[i]["crimes"].append(crime)
 
-
-json.dump(apartments, outfile)
+for a in apartments:
+    json.dump({'name': a["name"], 'address': a["address"], 'lats': a["lats"], 'longs': a["longs"], 'crimes': a["crimes"]}, outfile)
+    outfile.write(",")
