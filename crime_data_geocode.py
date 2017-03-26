@@ -6,7 +6,7 @@ geolocator = Nominatim()
 
 crime_data_compile = open("crime_data_clean.txt", 'w+')
 
-with open('run_results.txt') as infile:
+with open('crime_data_clean.txt') as infile:
     for line in infile:
         location = geolocator.geocode(line)
         if location:
@@ -15,6 +15,9 @@ with open('run_results.txt') as infile:
         else :
             lat = None
             long = None
+        if(lat=="None" || long = "None"){
+        print("Line to be deleted ")
+        }
         list_of_apartments.write(bytes(lat))
         list_of_apartments.write(str(","))
         list_of_apartments.write(bytes(lon))

@@ -33,7 +33,7 @@ with open('apartment_names_clean.txt') as names:
     #    all_names[line] = {'address': all_addresses[count],'lat_long': all_lat_longs[count+1s]}
     #    count+=1
     for name in all_names:
-        json.dump({'name': name, 'address': all_addresses[count], 'lats': all_lats[count+1],'longs': all_longs[count+1]}, outfile)
+        json.dump({'name': name, 'address': all_addresses[count], 'lats': all_lats[count],'longs': all_longs[count]}, outfile)
         outfile.write(",")
 
         count=count+1
