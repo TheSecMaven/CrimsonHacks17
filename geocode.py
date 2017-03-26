@@ -4,10 +4,18 @@ from pprint import pprint
 
 geolocator = Nominatim()
 
+list_of_apartments = open("lat_long_apartments.txt", 'w+')
 
 with open('run_results.txt') as infile:
     for line in infile:
         location = geolocator.geocode(line)
-        with open('lat_long_apartments.json','w') as list_of_apartments:
-
-            list_of_apartments.write(location)
+        if location:
+            lat=location.latitude
+            lon=location.longitude
+        else :
+            lat = None
+            long = None
+        list_of_apartments.write(bytes(lat))
+        list_of_apartments.write(str(","))
+        list_of_apartments.write(bytes(lon))
+        list_of_apartments.write("\n")
