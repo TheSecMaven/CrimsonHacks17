@@ -47,10 +47,6 @@
 		padding-left: 1em;
 	  }
 	  
-	  #footer{
-		float: left;  
-	  }
-	  
 	  .crime_info{
 		 font-size: .8em;
 		 
@@ -71,14 +67,12 @@
     <div id="info">
 		<div id="help-text"><h2>Select an apartment to view data</h2></div>
 		<div id="info-text"></div>
-		
-    </div>
-    <div id="footer">
 		<button onclick="toggleCrimeData()">Toggle crime data</button>
 		<button onclick="togglePermitData()">Toggle permit data</button>
 		<button onclick="toggleCrimeHeatmap()">Toggle crime heatmap</button>
 		<button onclick="togglePermitHeatmap()">Toggle permit heatmap</button>
-	</div>
+    </div>
+
     <script>
 	 
 	 
@@ -123,7 +117,7 @@
 				crimes: apartmentsJson.apartments[i].crimes,
 				permits: apartmentsJson.apartments[i].permits,
 				getCrimesString: function () {
-					if(this.crimes && this.crimes.length > 0){
+					if(this.crimes){
 						var s = "";
 						for(var c = 0; c < this.crimes.length; c++)
 						{
@@ -132,11 +126,11 @@
 						return s;
 					}
 					else{
-						return "None";
+						return "";
 					}
 				},
 				getPermitsString: function () {
-					if(this.permits && this.permits.length > 0){
+					if(this.permits){
 						var s = "";
 						for(var c = 0; c < this.permits.length; c++)
 						{
@@ -145,7 +139,7 @@
 						return s;
 					}
 					else{
-						return "None";
+						return "";
 					}
 				},
 				
