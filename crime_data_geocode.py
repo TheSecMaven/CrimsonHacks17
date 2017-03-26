@@ -29,6 +29,7 @@ with open('crime_data_clean.txt') as infile:
         else:
             descript = line.strip().split(',')[0]
             date = line.strip().split(',')[1]
+            address = line.strip().split(',')[2]
             crime_data_compile.write(bytes(descript))
             crime_data_compile.write(str(","))
             crime_data_compile.write(bytes(date))
@@ -36,4 +37,6 @@ with open('crime_data_clean.txt') as infile:
             crime_data_compile.write(bytes(lat))
             crime_data_compile.write(str(","))
             crime_data_compile.write(bytes(lon))
+            crime_data_compile.write(str(","))
+            crime_data_compile.write(bytes(address))
             crime_data_compile.write("\n")

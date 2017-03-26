@@ -1,0 +1,984 @@
+Burglary, 03/25/2017,None,None, 2500 Veterans Memorial Parkway
+Burglary, 03/25/2017,None,None, 1700 Martin Luther King Jr Blvd
+Burglary, 03/24/2017,33.195586,-87.5447739, 3200 18th St.
+theft, 03/24/2017,33.2053244625,-87.5551383933, 1100 14th Ave
+shoplifting, 03/24/2017,None,None, 1800 E Mcfarland Blvd
+shoplifting, 03/24/2017,None,None, 1600 E 13th Ave
+theft, 03/24/2017,33.210995,-87.553761, 1200 University Blvd
+theft, 03/24/2017,None,None, 400 E 25th Ave
+Burglary, 03/23/2017,None,None, 2500 E 1st St
+Burglary, Third Degree --Burglary-non-residence-force	03/23/2017,None,None, 1200 Rice Mine Road
+Burglary, 03/23/2017,None,None, 1900 Fosters Ferry Rd
+robbery,	03/22/2017,33.1986699747,-87.5397735303, 300 15th St
+Burglary, 03/22/2017,None,None, 2300 Herman Ave
+Burglary, 03/22/2017,None,None, 200 E 24th Ave
+theft, 03/22/2017,33.189474,-87.551494, 2700 10th Ave
+theft, 03/22/2017,None,None, 1700 E Mcfarland Blvd
+Burglary, 03/22/2017,33.201419,-87.55065, 1400 10th Ave
+theft, 03/22/2017,None,None, 2800 40th Ct
+theft, 03/22/2017,33.202657,-87.552139, 1300 11th Ave
+Burglary, 03/22/2017,33.206816,-87.571763, 2700 7th St
+theft, 03/22/2017,33.200128,-87.543276, 500 14th St
+theft, 03/21/2017,None,None, 1900 E 13th Ave
+theft, 03/21/2017,None,None, 1700 E 21st Ave
+theft, 03/21/2017,33.208272,-87.538331, 300 University Blvd
+Burglary, 03/21/2017,None,None, 1700 40th Ave
+theft, 03/20/2017,33.2107915557,-87.5526118634, 1100 University Blvd
+theft, 03/20/2017,None,None, 1700 E Mcfarland Blvd
+theft, 03/20/2017,None,None, 1900 E 13th Ave
+theft, Veh 03/20/2017,33.191969,-87.5428929, 1100 E Hargrove Rd
+theft, Veh 03/20/2017,33.2099500422,-87.5478880132, 800 E University Blvd
+robbery,	03/20/2017,33.184551,-87.5489129, 4100 29th St
+theft, 03/19/2017,33.196757,-87.55096, 1700 10th Ave
+Burglary, 03/19/2017,33.188592,-87.5409029, 3400 23rd St
+theft, Veh 03/19/2017,33.199444,-87.552413, 1100 15th St
+Burglary, 03/19/2017,33.211708,-87.557787, 1600 University Blvd
+Burglary, 03/18/2017,33.191969,-87.5428929, 1100 E Hargrove Rd
+theft, 03/18/2017,None,None, 2400 E Mcfarland Blvd
+Burglary, 03/18/2017,33.210409,-87.555334, 1400 6th St
+theft, 03/18/2017,33.196104,-87.549441, 1700 9th Ave
+theft, 03/18/2017,None,None, 400 Kicker Rd
+theft, 03/18/2017,33.2099500422,-87.5478880132, 800 E University Blvd
+criminal Trespass Second Degree -- Enter/remain In Building/fenced Property,	03/18/2017,None,None, 1300 Rice Mine Road
+Burglary, 03/18/2017,None,None, 2000 E 25th Way
+Burglary, 03/17/2017,33.2116815,-87.5695632, 2600 Greensboro Ave
+Burglary, 03/17/2017,33.210865,-87.560601, 600 Queen City Ave
+theft, 03/17/2017,None,None, 600 Ne 6th Ave
+theft, 03/16/2017,None,None, 1700 E Mcfarland Blvd
+theft, 03/16/2017,None,None, 3200 Cordell St
+theft, 03/16/2017,None,None, 1900 E 13th Ave
+Burglary, 03/15/2017,33.191969,-87.5428929, 1100 E Hargrove Rd
+theft, 03/15/2017,None,None, 1800 E Mcfarland Blvd
+theft, 03/15/2017,None,None, 2700 Martin Luther King Jr Blvd
+theft, 03/15/2017,33.186212,-87.543121, 500 27th St
+theft, 03/15/2017,None,None, 1100 S Lurleen B Wallace Blvd
+theft, 03/15/2017,None,None, 2500 E 1st St
+Burglary, 03/14/2017,33.191969,-87.5428929, 1300 Hargrove Rd
+theft, 03/14/2017,None,None, 1100 S Lurleen B Wallace Blvd
+theft, 03/14/2017,None,None, 1800 E Mcfarland Blvd
+Burglary, 03/14/2017,33.2057198,-87.5430748, 1400 Paul W Bryant Dr
+Burglary, 03/14/2017,33.198258,-87.539071, 1500 3rd Ave
+Burglary, 03/14/2017,33.194662,-87.5448059, 2900 19th St
+Burglary, 03/13/2017,None,None, 800 Frank Thomas Ave
+theft, 03/13/2017,33.196602,-87.5567229, 3200 Short 17th St
+theft, 03/13/2017,None,None, 4100 20th St
+theft, 03/13/2017,33.2116815,-87.5695632, 2200 Greensboro Ave
+theft, 03/12/2017,33.2057198,-87.5430748, 2100 Paul W Bryant Dr
+theft, 03/12/2017,None,None, 2300 Herman Ave
+Burglary, 03/12/2017,33.187815,-87.530315, 1 Brook Meadows Cir
+Burglary, 03/12/2017,33.188071,-87.5451499, 3400 25th St
+Burglary, 03/12/2017,33.200698,-87.53109, 200 Cedar Crest
+theft, Veh 03/12/2017,33.189321,-87.5412, 400 23rd St
+theft, Veh 03/12/2017,33.187173,-87.5451429, 3700 26th St
+theft, 03/11/2017,None,None, 1900 E 13th Ave
+theft, 03/10/2017,None,None, 1700 E Mcfarland Blvd
+theft, 03/10/2017,None,None, 3200 Veterans Memorial Parkway
+theft, 03/10/2017,None,None, 2200 E 2nd St
+theft, 03/10/2017,33.221462,-87.543024, 100 Old Hackberry Ln
+Burglary, 03/10/2017,None,None, 2300 Dupont Ave
+theft, 03/09/2017,33.211257,-87.555304, 1400 University Blvd
+theft, 03/09/2017,None,None, 1700 E Mcfarland Blvd
+theft, 03/09/2017,33.1986475,-87.5395455, 200 15th St
+theft, 03/08/2017,None,None, 1700 E Mcfarland Blvd
+theft, 03/08/2017,33.209582,-87.55716, 1500 7th St
+theft, 03/08/2017,None,None, 2700 20th St
+theft, Veh 03/08/2017,33.198383,-87.540292, 1500 4th Ave
+theft, 03/08/2017,33.2099500422,-87.5478880132, 800 E University Blvd
+theft, 03/07/2017,None,None, 1700 E Mcfarland Blvd
+theft, Veh 03/07/2017,None,None, 2300 E 11th St
+possession Of A Controlled Substance -- Meth possession,	03/06/2017,None,None, 2500 Lurleen Wallace Blvd
+theft, 03/05/2017,33.210995,-87.553761, 1200 University Blvd
+theft, 03/05/2017,None,None, 2500 Martin Luther King Jr Blvd
+promote Prison Contraband Second Degree -- Promote Prison Contraband (drugs), 03/05/2017,None,None, 1600 26th Ave
+theft, 03/04/2017,None,None, 1700 E Mcfarland Blvd
+theft, 03/04/2017,None,None, 2100 Jemison Ave
+robbery,	03/04/2017,33.194731,-87.513945, 1700 17th St
+theft, 03/04/2017,None,None, 1800 E Mcfarland Blvd
+theft, 03/04/2017,None,None, 1600 E 13th Ave
+theft, 03/03/2017,None,None, 1700 E Mcfarland Blvd
+theft, 03/03/2017,None,None, 1700 E Mcfarland Blvd
+theft, 03/03/2017,33.21085,-87.564314, 500 21st Ave".
+theft, 03/03/2017,33.2116815,-87.5695632, 1400 Greensboro Ave
+Receive St.n Pr,	03/03/2017,33.209699,-87.5604879, 1900 Queen City Ave
+theft, Veh 03/02/2017,None,None, 1900 N Rice Mine Rd
+Burglary, 03/02/2017,None,None, 1700 40th Ave
+theft, 03/02/2017,None,None, 2400 E Mcfarland Blvd
+theft, 03/01/2017,33.2098541,-87.5608513, 3000 7th St
+Receive St.n Pr,	03/01/2017,None,None, 2200 E University Blvd
+theft, 03/01/2017,33.2057198,-87.5430748, 1300 Paul W Bryant Dr
+theft, 03/01/2017,None,None, 1700 E Mcfarland Blvd
+theft, 03/01/2017,33.212795,-87.5204999, 100 Helen Keller Blvd
+Burglary, 02/28/2017,33.195646,-87.547943, 800 18th St
+theft, 02/28/2017,None,None, 1700 Martin Luther King Jr Blvd
+theft, 02/28/2017,None,None, 1900 E 13th Ave
+theft, 02/28/2017,33.208686,-87.557138, 1500 8th St
+theft, 02/28/2017,None,None, 1700 Martin Luther King Jr Blvd
+Burglary, 02/28/2017,None,None, 2600 21st St
+theft, 02/27/2017,33.186212,-87.543121, 500 27th St
+theft, 02/27/2017,None,None, 300 E Short 24th Ave
+Burglary, 02/26/2017,33.191969,-87.5428929, 1300 Hargrove Rd
+theft, 02/26/2017,33.196757,-87.55096, 1700 10th Ave
+theft, 02/26/2017,33.209148,-87.571178, 2600 University Blvd
+Burglary, 02/26/2017,33.209741,-87.56096, 1900 7th St
+theft, 02/25/2017,33.211023,-87.564441, 2100 University Blvd
+theft, 02/25/2017,33.208784,-87.572549, 2700 E University Blvd
+theft, 02/25/2017,None,None, 1700 E Mcfarland Blvd
+theft, 02/25/2017,None,None, 1700 E Mcfarland Blvd
+theft, 02/25/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 02/25/2017,None,None, 1500 Culver Rd
+theft, 02/25/2017,33.211815,-87.561679, 1900 University Blvd
+theft, 02/25/2017,None,None, 500 Red Drew Ave
+theft, 02/25/2017,33.1989393826,-87.5426112172, 500 E 15th St
+theft, 02/24/2017,33.212085,-87.560692, 1800 University Blvd
+criminal Trespass Third Degree -- Enters/remains In/on Premises,	02/24/2017,None,None, 1200 Rice Mine Road
+theft, 02/22/2017,None,None, 1800 E Mcfarland Blvd
+theft, 02/22/2017,None,None, 1700 E Mcfarland Blvd
+harassment -- Harassment (simple Assault),	02/22/2017,None,None, 1200 Rice Mine Road
+robbery,	02/21/2017,None,None, 1200 Of 9th Ave
+robbery,	02/21/2017,33.203784,-87.54737, 800 12th St
+robbery,	02/21/2017,33.207682,-87.555317, 1400 9th St
+robbery,	02/21/2017,None,None, 1800 Of 4th Ave
+theft, 02/21/2017,33.20246,-87.54432, 600 13th St
+Burglary, 02/21/2017,33.188071,-87.5451499, 3000 25th St
+theft, Veh 02/21/2017,33.204854,-87.545716, 700 11th St
+robbery,	02/21/2017,None,None, 1300 E Mcfarland Blvd
+theft, 02/21/2017,None,None, 1500 Culver Rd
+theft, 02/21/2017,33.2106728,-87.5655855, 3000 E University Blvd
+theft, 02/21/2017,33.191932,-87.5344419, 2100 Forest Lake Dr
+theft, 02/21/2017,33.2116815,-87.5695632, 1200 Greensboro Ave
+robbery,	02/20/2017,None,None, 1800 E Mcfarland Blvd
+theft, 02/20/2017,None,None, 1700 E Mcfarland Blvd
+theft, 02/20/2017,33.194619,-87.537122, 100 18th St
+Burglary, 02/20/2017,None,None, 300 E 29th Ave
+theft, 02/20/2017,None,None, 2600 Lanier Ave
+theft, 02/20/2017,33.188592,-87.5409029, 3000 23rd St
+theft, 02/20/2017,None,None, 1500 Culver Rd
+theft, 02/20/2017,None,None, 900 E 13th St
+theft, 02/20/2017,None,None, 3500 21st St
+Burglary, 02/20/2017,33.221462,-87.543024, 100 Old Hackberry Ln
+theft, 02/19/2017,None,None, 1800 E Mcfarland Blvd
+Burglary, 02/19/2017,None,None, 1600 Ty Rogers Jr Ave
+Burglary, 02/19/2017,None,None, 400 E 20th St
+Burglary, 02/19/2017,33.188769,-87.554171, 2400 11th Ct.
+theft, 02/17/2017,33.209669,-87.568418, 500 Greensboro Ave
+rape, 02/17/2017,33.1992626786,-87.5488829643, 900 15th St
+Burglary, 02/17/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+Burglary, 02/16/2017,33.191969,-87.5428929, 1100 E Hargrove Rd
+theft, 02/16/2017,33.2073245859,-87.5605899697, 1000 Queen City Ave
+Burglary, 02/16/2017,33.21106,-87.567368, 400 23rd Ave
+theft, 02/16/2017,33.21106,-87.567368, 400 23rd Ave
+theft, Veh 02/16/2017,33.207957,-87.563155, 800 E 21st Ave
+Burglary, 02/16/2017,None,None, 1500 Martin Luther King Jr Blvd
+Burglary, 02/15/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+Burglary, 02/15/2017,None,None, 100 E 18th Ct
+theft, 02/15/2017,33.19454,-87.552704, 1900 11th Ave
+theft, 02/15/2017,None,None, 2300 E Mcfarland Blvd
+theft, 02/15/2017,None,None, 500 Red Drew Ave
+Burglary, 02/14/2017,None,None, 1200 27th Pl
+Burglary, 02/14/2017,None,None, 1700 40th Ave
+theft, 02/14/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 02/14/2017,33.210659,-87.565763, 2200 University Blvd
+theft, 02/14/2017,33.2057198,-87.5430748, 1500 Paul W Bryant Dr
+Burglary, 02/14/2017,None,None, 1900 E 4th St
+theft, 02/14/2017,33.20246,-87.54432, 600 13th St
+Burglary, 02/14/2017,33.2116815,-87.5695632, 2500 Greensboro Ave
+Burglary, 02/14/2017,None,None, 200 E Short 24th Ave
+assault Second Degree -- Aggravated Assault Police Officer-other Weapon,	02/13/2017,33.2099500422,-87.5478880132, 800 University Blvd
+theft, 02/13/2017,None,None, 1900 E 13th Ave
+theft, 02/13/2017,None,None, 1900 E 13th Ave
+theft, 02/13/2017,None,None, 1900 E 13th Ave
+theft, 02/13/2017,None,None, 1800 E Mcfarland Blvd
+theft, 02/13/2017,None,None, 1500 Culver Rd
+theft, 02/13/2017,33.199361,-87.550811, 1000 15th St
+theft, Veh 02/12/2017,None,None, 1900 Dinah Washington Ave
+Burglary, 02/12/2017,None,None, 800 E 31st Ave
+theft, Veh 02/11/2017,None,None, 3300 Stillman Blvd
+robbery,	02/11/2017,None,None, 1500 Culver Rd
+theft, 02/11/2017,None,None, 1700 E Mcfarland Blvd
+Burglary, 02/11/2017,None,None, 2900 Ne Colonial Dr
+theft, 02/11/2017,33.19866,-87.543222, 1500 Hackberry Ln
+Burglary, 02/11/2017,None,None, 1200 27th Pl
+theft, 02/11/2017,None,None, 1 St & Queen City Ave
+Burglary, 02/11/2017,33.202541,-87.545877, 700 13th St
+theft, 02/11/2017,None,None, 1400 Martin Luther King Jr Blvd
+Burglary, 02/10/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 02/10/2017,33.208576,-87.552351, 1100 8th St
+theft, 02/10/2017,33.195968,-87.5392859, 1100 17th St
+theft, 02/10/2017,33.193290902,-87.5375393285, 2000 1st Ave
+theft, 02/10/2017,None,None, 1600 E 17th Ave
+theft, 02/10/2017,33.211023,-87.564441, 2100 University Blvd
+Burglary, 02/10/2017,None,None, 900 35th Ave
+Burglary, 02/09/2017,None,None, 700 E 30th Ave
+Burglary, 02/09/2017,None,None, 3500 21st St
+theft, 02/09/2017,None,None, 1800 E Mcfarland Blvd
+theft, 02/09/2017,None,None, 1200 E Mcfarland Blvd
+theft, 02/09/2017,None,None, 1800 E Mcfarland Blvd
+Burglary, 02/09/2017,None,None, 2800 21st St
+Burglary, 02/08/2017,None,None, 2700 22nd St
+theft, 02/08/2017,None,None, 1800 E Mcfarland Blvd
+theft, 02/08/2017,None,None, 1600 Veterans Memorial Parkway
+theft, 02/08/2017,None,None, 1700 E Mcfarland Blvd
+theft, 02/08/2017,33.2107915557,-87.5526118634, 1100 University Blvd
+robbery,	02/08/2017,None,None, 1800 E Mcfarland Blvd
+theft, 02/08/2017,None,None, 1700 E Mcfarland Blvd
+theft, Veh 02/08/2017,33.2053244625,-87.5551383933, 1100 14th Ave
+Burglary, 02/08/2017,None,None, 1900 Veterans Memorial Parkway
+theft, 02/07/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+Burglary, 02/07/2017,33.195586,-87.5447739, 3200 18th St
+theft, Veh 02/07/2017,33.21407,-87.559013, 200 17th Ave
+Burglary, 02/07/2017,33.187173,-87.5451429, 1000 26th St
+theft, 02/07/2017,None,None, 1900 E 13th Ave
+theft, 02/07/2017,None,None, 2500 Veterans Memorial Parkway
+Burglary, 02/07/2017,33.209862,-87.563917, 600 21st Ave
+Burglary, 02/07/2017,None,None, 200 E Short 24th Ave
+theft, Veh 02/06/2017,33.186236,-87.5456639, 1500 E 6th Ave
+theft, 02/06/2017,None,None, 2300 Riverfront Cir
+theft, 02/06/2017,33.206618,-87.558308, 1000 16th Ave
+theft, 02/06/2017,33.195594,-87.55105, 1800 10th Ave
+theft, 02/06/2017,33.195968,-87.5392859, 2200 17th St
+assault Second Degree -- Aggravated Assault Non-family-strong Arm,	02/06/2017,None,None, 1600 26th Ave
+assault Second Degree -- Aggravated Assault Police Officer-strong Arm,	02/06/2017,None,None, 1600 26th Ave
+Burglary, 02/05/2017,None,None, 500 Frank Thomas Ave
+Burglary, 02/05/2017,33.195968,-87.5392859, 1100 17th St
+homicide, 02/05/2017,None,None, 2500 Veterans Memorial Parkway
+theft, 02/05/2017,None,None, 1 Washington Square
+robbery,	02/05/2017,None,None, 1900 E 13th Ave
+theft, Veh 02/05/2017,33.208636,-87.553476, 1200 8th St
+robbery,	02/05/2017,None,None, 800 34th Ave
+stabbing, 02/04/2017,33.2054544,-87.5650062, 4100 10th St
+theft, 02/04/2017,None,None, 1700 E Mcfarland Blvd
+theft, 02/04/2017,33.208784,-87.572549, 2700 E University Blvd
+theft, 02/04/2017,33.188592,-87.5409029, 2900 23rd St
+theft, 02/04/2017,None,None, 1 Washington Square
+theft, 02/04/2017,None,None, 2500 Martin Luther King Jr Blvd
+theft, 02/04/2017,33.18723,-87.5394279, 2600 24th St
+theft, 02/03/2017,33.210995,-87.553761, 1200 University Blvd
+harassment/intimidation, 02/03/2017,None,None, 1200 Rice Mine Road
+theft, Veh 02/03/2017,33.197598,-87.541692, 500 16th St
+theft, 02/03/2017,33.1938429642,-87.5449267461, 2000 6th Ave
+Burglary, 02/02/2017,None,None, 400 Ne 8th Ave
+theft, 02/02/2017,None,None, 2500 E Mcfarland Blvd
+Burglary, 02/02/2017,33.191969,-87.5428929, 1100 E Hargrove Rd
+theft, 02/02/2017,33.2107915557,-87.5526118634, 1100 University Blvd
+theft, 02/02/2017,33.193209,-87.551242, 1000 Hargrove Rd
+theft, 02/02/2017,None,None, 800 Veterans Memorial Parkway
+theft, 02/02/2017,33.2107915557,-87.5526118634, 1100 University Blvd
+theft, 02/01/2017,None,None, 1800 E Mcfarland Blvd
+theft, 02/01/2017,None,None, 2300 E Mcfarland Blvd
+theft, 02/01/2017,None,None, 1800 E Mcfarland Blvd
+Burglary, 02/01/2017,None,None, 400 Ne 7th Ave
+Burglary, 02/01/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 02/01/2017,None,None, 1700 E Mcfarland Blvd
+theft, 02/01/2017,None,None, 2600 Elm St
+theft, 02/01/2017,None,None, 1800 N Rice Mine Rd
+theft, 01/31/2017,33.191969,-87.5428929, 1100 E Hargrove Rd
+theft, 01/31/2017,None,None, 1700 40th Ave
+theft, 01/31/2017,None,None, 500 27th Fosters
+theft, 01/31/2017,None,None, Fosters Ferry Rd & 21st St
+theft, Veh 01/30/2017,33.18723,-87.5394279, 3000 24th St
+theft, 01/30/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/30/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/30/2017,None,None, 2900 22nd St
+theft, 01/30/2017,33.202865,-87.552175, 1100 13th St
+theft, 01/30/2017,None,None, 3200 E University Blvd
+theft, 01/30/2017,None,None, 1600 E 13th Ave
+theft, 01/30/2017,None,None, 1800 E Mcfarland Blvd
+theft, 01/29/2017,33.2107915557,-87.5526118634, 1100 University Blvd
+rape, 01/29/2017,33.2084341,-87.5493579, 3200 8th St
+theft, 01/29/2017,33.208165,-87.566211, 700 E 23rd Ave
+Burglary, 01/29/2017,33.195968,-87.5392859, 1100 17th St
+theft, 01/29/2017,33.209874,-87.547431, 600 E University Blvd
+theft, 01/29/2017,33.211161,-87.554681, 1300 University Blvd
+Burglary, 01/29/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 01/28/2017,None,None, 1700 E Mcfarland Blvd
+criminal Mischief Third Degree ($500 Or Less) -- Criminal Mischief-damage To Private Property,	01/28/2017,None,None, 3600 Rice Mine Rd
+theft, 01/28/2017,None,None, 1800 E Mcfarland Blvd
+theft, 01/28/2017,None,None, 2900 E University Blvd
+theft, 01/28/2017,33.210995,-87.553761, 1200 University Blvd
+theft, 01/27/2017,None,None, 1800 E Mcfarland Blvd
+theft, Veh 01/27/2017,33.209699,-87.5604879, 1400 Queen City Ave
+theft, 01/27/2017,33.2099500422,-87.5478880132, 800 E University Blvd
+theft, Veh 01/26/2017,33.192449,-87.545069, 600 E Hargrove Rd
+theft, 01/26/2017,33.201859,-87.54745, 1300 8th Ave
+theft, 01/26/2017,None,None, 2100 E Mcfarland Blvd
+harassment/intimidation, 01/26/2017,None,None, 1200 5th St
+theft, 01/26/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/26/2017,33.191969,-87.5428929, 1100 E Hargrove Rd
+robbery,	01/26/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/26/2017,None,None, 1700 E Mcfarland Blvd
+Burglary, 01/26/2017,None,None, 1900 E 6th St
+theft, Veh 01/26/2017,None,None, 500 33rd Ave
+theft, 01/25/2017,None,None, 1700 E Mcfarland Blvd
+Burglary, 01/25/2017,33.196882,-87.536738, 1600 1st Ave
+theft, Veh 01/25/2017,None,None, 3500 21st St
+theft, 01/25/2017,33.2044999,-87.5646297, 1700 23rd Ave
+theft, 01/25/2017,None,None, 1600 E 13th Ave
+theft, 01/25/2017,33.218778,-87.5498429, 1600 Jack Warner Parkway
+theft, 01/25/2017,33.2099500422,-87.5478880132, 800 E University Blvd
+theft, 01/25/2017,None,None, 1800 E Mcfarland Blvd
+robbery,	01/25/2017,None,None, 2500 Martin Luther King Jr Blvd
+theft, 01/25/2017,33.197123,-87.554139, 1200 14th Ave
+Burglary, 01/24/2017,33.197226,-87.537981, 200 16th St
+theft, 01/24/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/24/2017,33.211708,-87.557787, 1600 University Blvd
+theft, 01/24/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/24/2017,None,None, 1800 E Mcfarland Blvd
+theft, 01/24/2017,None,None, 1800 E Mcfarland Blvd
+Burglary, 01/23/2017,None,None, 500 E 35th Ave
+theft, 01/23/2017,None,None, 1500 Culver Rd
+theft, 01/23/2017,33.198834,-87.541491, 400 15th St
+theft, 01/23/2017,33.213743,-87.553938, 300 Grace St
+theft, 01/23/2017,33.20862,-87.555322, 1400 8th St
+rape, 01/23/2017,33.1992626786,-87.5488829643, 900 15th St
+theft, 01/23/2017,None,None, Hargrove Rd" & 14th Ave
+Burglary, 01/22/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 01/22/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/22/2017,33.195586,-87.5447739, 3200 18th St
+robbery,	01/22/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+rape, 01/22/2017,None,None, 1 Ave
+theft, 01/21/2017,33.211236,-87.567497, 2300 4th St
+theft, 01/21/2017,None,None, 1300 E Mcfarland Blvd
+theft, 01/21/2017,None,None, 1700 40th Ave
+unauthorized Use Of A Vehicle -- Unauthorized Use Of Truck-no Force,	01/20/2017,33.210116,-87.5525579, 600 6th Street
+theft, 01/20/2017,33.210082,-87.5589919, 1 Audubon Pl
+theft, 01/20/2017,33.210322,-87.567108, 2300 University Blvd
+theft, 01/20/2017,33.198834,-87.541491, 400 15th St
+theft, 01/20/2017,33.208784,-87.572549, 2700 E University Blvd
+Burglary, 01/19/2017,None,None, 1 Fairmont Dr
+Burglary, 01/19/2017,33.2007704654,-87.5413046095, 400 Meador Dr
+theft, 01/19/2017,33.187173,-87.5451429, 3800 26th St
+theft, 01/18/2017,33.210995,-87.553761, 1200 University Blvd
+robbery,	01/18/2017,33.2057198,-87.5430748, 1500 Paul W Bryant Dr
+Burglary, 01/18/2017,None,None, 300 E 25th Ave
+theft, 01/18/2017,None,None, 1700 E 17th Ave
+theft, 01/18/2017,33.199066,-87.544926, 600 15th St
+theft, 01/18/2017,33.2099500422,-87.5478880132, 800 E University Blvd
+Burglary, 01/18/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 01/18/2017,None,None, 3300 Stillman Blvd
+theft, 01/18/2017,None,None, 500 Ne 7th Ave
+theft, 01/17/2017,33.2107915557,-87.5526118634, 1100 University Blvd
+theft, 01/17/2017,33.2106728,-87.5655855, 3000 E University Blvd
+theft, 01/17/2017,33.191969,-87.5428929, 1100 E Hargrove Rd
+Burglary, 01/17/2017,33.18723,-87.5394279, 2800 24th St
+Burglary, 01/17/2017,33.208531,-87.558385, 800 16th Ave
+theft, 01/16/2017,33.202541,-87.545877, 700 13th St
+Burglary, 01/16/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+Burglary, 01/16/2017,None,None, 3300 Cordell St
+theft, 01/16/2017,33.210322,-87.567108, 2300 University Blvd
+theft, 01/16/2017,None,None, 3300 Arcadia Dr
+theft, 01/16/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/16/2017,33.2127677701,-87.5553222138, 300 Reed St
+theft, 01/16/2017,33.191969,-87.5428929, 1300 Hargrove Rd
+Burglary, 01/15/2017,33.191932,-87.5344419, 2000 Forest.lake Dr
+theft, 01/15/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/15/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/15/2017,None,None, 1800 E Mcfarland Blvd
+Burglary, 01/15/2017,None,None, 2200 Kicker Rd
+theft, 01/15/2017,33.186308,-87.545287, 600 27th St
+Burglary, 01/15/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 01/14/2017,33.208784,-87.572549, 2700 E University Blvd
+theft, Veh 01/14/2017,None,None, 2600 25th Ave
+theft, 01/14/2017,None,None, 2800 42nd Ave
+theft, 01/14/2017,None,None, 500 Snows Mill Ave
+robbery,	01/14/2017,33.2057198,-87.5430748, 2500 Paul W Bryant Dr
+rape, 01/14/2017,None,None, 500 Frank Thomas Ave
+theft, 01/13/2017,33.201081,-87.543192, 1400 Hackberry Ln
+theft, 01/13/2017,None,None, 1800 E Mcfarland Blvd
+theft, 01/13/2017,33.2057198,-87.5430748, 1500 Paul W Bryant Dr
+theft, 01/13/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/13/2017,33.195047,-87.542046, 500 18th St
+theft, 01/13/2017,None,None, 1700 Martin Luther King Jr Blvd
+Burglary, 01/13/2017,None,None, 500 33rd Ave
+robbery,	01/13/2017,33.191969,-87.5428929, 1300 Hargrove Rd
+theft, 01/12/2017,None,None, 1600 E 13th Ave
+theft, 01/12/2017,None,None, 1700 E Mcfarland Blvd
+criminal Mischief Third Degree ($500 Or Less) -- Criminal Mischief-damage To Private Property,	01/11/2017,None,None, 1600 26th Ave
+theft, 01/11/2017,None,None, 1700 E Mcfarland Blvd
+Burglary, 01/11/2017,None,None, 300 E 24th Ave
+Burglary, 01/11/2017,33.209669,-87.568418, 500 Greensboro Ave
+theft, 01/11/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/11/2017,33.221462,-87.543024, 100 Old Hackberry Ln
+theft, 01/11/2017,33.199498,-87.553968, 1200 15th St
+theft, 01/11/2017,None,None, 600 Ne 6th Ave
+Burglary, 01/11/2017,None,None, 2300 Veterans Memorial Parkway
+Burglary, 01/10/2017,33.192061,-87.5532259, 1 Meadow Lawn
+Burglary, 01/10/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+Burglary, 01/10/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+Burglary, 01/10/2017,33.2118151115,-87.5567121526, 1400 Caplewood Dr
+Burglary, 01/10/2017,33.197901,-87.55553, 1600 14th Ave
+robbery,	01/09/2017,None,None, 1 St & Red Drew Ave
+theft, 01/09/2017,33.2057198,-87.5430748, 2100 Paul W Bryant Dr
+robbery,	01/09/2017,33.2116815,-87.5695632, 1400 Greensboro Ave
+Burglary, 01/09/2017,33.186261,-87.5462049, 3700 27th St
+theft, 01/08/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/08/2017,None,None, 1 Juanita Dr
+theft, 01/08/2017,33.2084341,-87.5493579, 3400 8th St
+theft, Veh 01/08/2017,33.2048788,-87.5632932, 100 E 22nd Ave
+theft, 01/08/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/08/2017,None,None, 1200 E 13th Ave
+theft, Veh 01/07/2017,33.193626,-87.548054, 2000 8th Ave
+theft, 01/05/2017,None,None, 1700 E Mcfarland Blvd
+theft, 01/05/2017,None,None, 1500 Culver Rd
+theft, 01/05/2017,None,None, 1900 E 13th Ave
+Burglary, 01/05/2017,33.205698,-87.563719, 1000 22nd Ave
+theft, 01/05/2017,None,None, 2400 21st St
+Burglary, 01/04/2017,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 01/04/2017,None,None, 800 Veterans Memorial Parkway
+theft, 01/04/2017,None,None, 1700 E Mcfarland Blvd
+Burglary, 01/04/2017,33.2057198,-87.5430748, 2500 Paul W Bryant Dr
+Burglary, 01/04/2017,33.191969,-87.5428929, 1100 E Hargrove Rd
+Burglary, 01/03/2017,None,None, 2200 E 1st St
+theft, 01/03/2017,33.2116815,-87.5695632, 1700 Greensboro Ave
+Burglary, 01/03/2017,33.1992940941,-87.5400973533, 1400 Cloverdale Rd
+Burglary, 01/03/2017,33.196062,-87.539423, 300 E 17th St
+theft, 01/03/2017,33.1997065569,-87.5578110566, 1600 15th St
+Burglary, 01/03/2017,None,None, 3800 21st St
+theft, 01/03/2017,33.2099500422,-87.5478880132, 800 E University Blvd
+Burglary, 01/03/2017,33.2099500422,-87.5478880132, 800 E University Blvd
+theft, 01/03/2017,33.2116815,-87.5695632, 1900 Greensboro Ave
+theft, 01/03/2017,33.209699,-87.5604879, 1900 Queen City Ave
+robbery,	01/02/2017,33.191969,-87.5428929, 1300 Hargrove Rd
+Burglary, 01/02/2017,33.189583,-87.537965, 2200 Prince Ave
+robbery,	01/02/2017,33.194425,-87.543193, 1800 Hackberry Ln
+theft, 01/02/2017,None,None, 3400 Cordell St
+Burglary, 01/02/2017,None,None, 2400 E 4th St
+Burglary, 01/02/2017,33.21106,-87.567368, 400 E 23rd Ave
+robbery,	01/02/2017,33.193209,-87.551242, 1000 Hargrove Rd
+Burglary, 01/01/2017,33.209582,-87.55716, 1500 7th St
+theft, 01/01/2017,None,None, 1700 E Mcfarland Blvd
+Burglary, 12/31/2016,None,None, 100 E 24th Ave
+robbery,	12/31/2016,None,None, 400 Ne 8th Ave
+theft, 12/31/2016,33.194662,-87.5448059, 2900 19th St
+theft, 12/30/2016,33.196757,-87.55096, 1700 10th Ave
+Burglary, 12/30/2016,33.1992940941,-87.5400973533, 1400 Cloverdale Rd
+theft, 12/30/2016,33.210116,-87.5525579, 3300 6th St
+Burglary, 12/30/2016,None,None, 3000 21st St
+theft, 12/30/2016,33.190502506,-87.5397885525, 200 E Hargrove Rd
+theft, 12/29/2016,None,None, 3400 E University Blvd
+robbery,	12/29/2016,None,None, 1700 E Mcfarland Blvd
+theft, 12/29/2016,33.2169391463,-87.5597820268, 1800 Jack Warner Parkway
+theft, 12/29/2016,None,None, 1700 E Mcfarland Blvd
+Burglary, 12/29/2016,None,None, 1600 E 18th Ave
+Burglary, 12/29/2016,None,None, 1400 E 18th Ave
+theft, 12/29/2016,None,None, 500 Ne Jack Warner Parkway
+Burglary, 12/28/2016,33.210116,-87.5525579, 3400 6th St
+theft, 12/28/2016,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 12/28/2016,None,None, 2700 Beech St
+theft, 12/28/2016,33.2054544,-87.5650062, 3200 10th St
+theft, 12/28/2016,None,None, 1100 27th Pl
+theft, 12/27/2016,None,None, 1700 E Mcfarland Blvd
+Burglary, 12/27/2016,33.18723,-87.5394279, 1500 24th St
+theft, Veh 12/27/2016,33.2037525,-87.5487897, 2400 12th St
+theft, Veh 12/27/2016,None,None, 2600 E 1st St
+Burglary, 12/26/2016,33.199868,-87.539936, 400 Wesley Pl
+theft, 12/26/2016,None,None, 1900 E 13th Ave
+theft, 12/26/2016,None,None, 1800 E Mcfarland Blvd
+Burglary, 12/26/2016,None,None, 400 Ne 7th Ave
+theft, Veh 12/25/2016,None,None, 3000 20th St
+Burglary, 12/25/2016,33.212795,-87.5204999, 300 Helen Keller Blvd
+robbery,	12/25/2016,None,None, 800 E 25th Ave
+robbery,	12/25/2016,None,None, 800 E 25th Ave
+theft, Veh 12/25/2016,33.192449,-87.545069, 600 E Hargrove Rd
+Burglary, 12/25/2016,None,None, 3400 E University Blvd
+theft, 12/24/2016,None,None, 3200 Hope Blvd
+theft, 12/24/2016,None,None, 1 Ct & 28th Pl
+theft, 12/23/2016,None,None, 1700 E Mcfarland Blvd
+theft, 12/23/2016,None,None, 1700 E Mcfarland Blvd
+Burglary, 12/23/2016,33.197267,-87.540453, 1600 4th Ave
+theft, 12/23/2016,None,None, 3100 Freemont Dr
+theft, 12/23/2016,None,None, 1700 E Mcfarland Blvd
+theft, 12/23/2016,None,None, 1900 E 13th Ave
+Burglary, 12/23/2016,33.194662,-87.5448059, 3200 19th St
+theft, 12/22/2016,None,None, 1800 E Mcfarland Blvd
+theft, 12/22/2016,None,None, 1700 E Mcfarland Blvd
+Burglary,/progre	12/22/2016,33.197353,-87.539227, 300 16th St
+Burglary, 12/22/2016,None,None, 1900 29th Ave
+theft, 12/21/2016,33.200128,-87.543276, 500 14th St
+theft, 12/21/2016,None,None, 3400 Ne 3rd St
+theft, 12/21/2016,None,None, 1700 E Mcfarland Blvd
+theft, 12/21/2016,None,None, 1 St.& 33rd Ave
+theft, Veh 12/21/2016,None,None, 2300 E 1st St
+theft, Veh 12/21/2016,None,None, 400 Ne 8th Ave
+theft, 12/21/2016,None,None, 1700 E Mcfarland Blvd
+theft, 12/21/2016,None,None, 1700 Martin Luther King Jr Blvd
+theft, 12/21/2016,33.2084341,-87.5493579, 2800 8th St
+theft, 12/20/2016,33.212085,-87.560692, 1800 University Blvd
+theft, 12/20/2016,None,None, 1700 E Mcfarland Blvd
+theft, 12/20/2016,None,None, 300 28th Ave
+Burglary, 12/20/2016,None,None, 2700 22nd St
+Burglary, 12/20/2016,None,None, 2300 Glendale Gardens
+theft, 12/19/2016,None,None, 1700 E Mcfarland Blvd
+Burglary, 12/19/2016,33.1927079937,-87.5484937818, 900 Hargrove Rd
+theft, 12/19/2016,33.192449,-87.545069, 600 E Hargrove Rd
+Burglary, 12/19/2016,None,None, 400 Ne 8th Ave
+theft, 12/18/2016,None,None, 1700 E Mcfarland Blvd
+theft, 12/18/2016,None,None, 1900 E 13th Ave
+theft, 12/18/2016,None,None, 3100 Stillman Blvd
+theft, 12/18/2016,None,None, 1700 E Mcfarland Blvd
+theft, 12/18/2016,None,None, 1800 E Mcfarland Blvd
+theft, 12/18/2016,None,None, 1700 E Mcfarland Blvd
+theft, 12/18/2016,None,None, 1300 E Mcfarland Blvd
+possession Of A Controlled Substance -- Synthetic Narcotic-possess,	12/18/2016,None,None, 1600 26th Ave
+Burglary, 12/16/2016,None,None, 200 E Short 24th Ave
+Burglary, 12/16/2016,None,None, 3800 21st St
+theft, 12/16/2016,33.202836,-87.562597, 1300 22nd Ave
+theft, 12/16/2016,None,None, 1700 E Mcfarland Blvd
+theft, 12/16/2016,33.208137,-87.53757, 200 E University Blvd
+Burglary, 12/15/2016,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 12/14/2016,None,None, 1800 E Mcfarland Blvd
+theft, 12/14/2016,33.195968,-87.5392859, 1100 17th St
+theft, 12/14/2016,33.193209,-87.551242, 1000 Hargrove Rd
+Burglary, 12/13/2016,33.2143101549,-87.5535897376, 1200 Riverside Dr
+theft, 12/13/2016,None,None, 1000 E 25th Ave
+theft, 12/13/2016,None,None, 100 Kicker Rd
+theft, 12/13/2016,None,None, 1800 E Mcfarland Blvd
+Burglary, 12/13/2016,33.212795,-87.5204999, 300 Helen Keller Blvd
+robbery,	12/13/2016,None,None, 100 E 29th Ave
+theft, 12/12/2016,None,None, 1800 E Mcfarland Blvd
+theft, 12/12/2016,33.193209,-87.551242, 1000 Hargrove Rd
+theft, 12/12/2016,None,None, 3200 Cordell St
+theft, 12/12/2016,33.211815,-87.561679, 1900 University Blvd
+robbery,	12/12/2016,33.203007,-87.555341, 1400 13th St
+robbery,	12/12/2016,33.1989393826,-87.5426112172, 500 15th St
+Burglary, 12/11/2016,33.196602,-87.5567229, 3300 Short 17th St
+theft, 12/11/2016,None,None, 1700 E Mcfarland Blvd
+theft, 12/11/2016,33.191969,-87.5428929, 1100 Hargrove Rd
+theft, 12/11/2016,33.198762,-87.5431239, 3100 15th St
+theft, 12/11/2016,None,None, 2600 Stillman Blvd
+theft, 12/10/2016,33.210995,-87.553761, 1200 University Blvd
+Burglary, 12/10/2016,None,None, 2400 E 4th St
+theft, Veh 12/10/2016,33.189583,-87.537965, 2200 Prince Ave
+theft, 12/10/2016,33.191969,-87.5428929, 1100 E Hargrove Rd
+Burglary, 12/09/2016,33.187352,-87.539528, 300 24th St
+theft, 12/09/2016,33.199066,-87.544926, 600 15th St
+theft, 12/09/2016,None,None, 1900 E 13th Ave
+theft, 12/09/2016,None,None, 1700 E Mcfarland Blvd
+theft, 12/09/2016,33.211921,-87.560619, 500 Queen City Ave
+theft, 12/09/2016,33.208686,-87.557138, 1500 8th St
+theft, 12/09/2016,33.195955,-87.554221, 1200 18th St
+Burglary, 12/09/2016,None,None, 2800 39th Ct
+Burglary, 12/09/2016,33.195646,-87.547943, 800 18th St
+theft, 12/08/2016,None,None, 1700 E Mcfarland Blvd
+theft, 12/08/2016,None,None, 1600 E 13th Ave
+theft, 12/08/2016,None,None, 1700 E Mcfarland Blvd
+criminal Trespass Third Degree -- Enters/remains In/on Premises,	12/08/2016,None,None, 1200 Rice Mine Road
+theft, 12/08/2016,None,None, 3100 Stillman Blvd
+theft, 12/07/2016,33.211921,-87.560619, 500 Queen City Ave
+rape, 12/07/2016,33.191969,-87.5428929, 1100 E Hargrove Rd
+theft, 12/07/2016,None,None, 1700 E Mcfarland Blvd
+robbery,	12/07/2016,None,None, 1800 E Mcfarland Blvd
+theft, 12/07/2016,33.221462,-87.543024, 100 Old Hackberry Ln
+theft, 12/07/2016,None,None, 1 Beechwood Dr
+Burglary, 12/07/2016,33.2145864,-87.5448629, 1200 7th Ave
+Burglary, 12/07/2016,33.211236,-87.567497, 2300 4th St
+theft, 12/06/2016,None,None, 1700 E Mcfarland Blvd
+criminal Trespass Third Degree -- Enters/remains In/on Premises,	12/06/2016,33.213654,-87.5622359, 1400 3rd Street
+theft, Veh 12/06/2016,33.191969,-87.5428929, 1100 E Hargrove Rd
+Burglary, 12/06/2016,None,None, 3400 Ne 2nd St
+theft, 12/05/2016,33.209148,-87.571178, 2600 University Blvd
+theft, 12/05/2016,None,None, 1300 E 10th Ave
+theft, 12/05/2016,None,None, 1800 E Mcfarland Blvd
+theft, 12/05/2016,None,None, 3400 E University Blvd
+Burglary, 12/05/2016,33.190758,-87.541146, 2200 Harrison St
+theft, 12/05/2016,None,None, 1 Arcadia Dr
+theft, 12/05/2016,None,None, 2300 Mckenzie Ave
+theft, 12/04/2016,33.209699,-87.5604879, 1700 Queen City Ave
+theft, 12/04/2016,33.211161,-87.554681, 1300 University Blvd
+theft, 12/03/2016,None,None, 2300 E Mcfarland Blvd
+theft, 12/03/2016,33.2119377879,-87.5647189299, 400 21st Ave
+theft, 12/03/2016,33.2128374595,-87.5688777027, 2300 Jack Warner Parkway
+theft, Veh 12/03/2016,33.205901,-87.521086, 1 Central Highlands
+possession Of A Controlled Substance -- Amphetamine-possess,	12/03/2016,33.209567,-87.5712662, 600 Lurleen B Wallace Blvd
+theft, 12/02/2016,None,None, 1800 E Mcfarland Blvd
+theft, 12/02/2016,33.2084341,-87.5493579, 3000 8th St
+theft, Veh 12/02/2016,33.206064,-87.574406, 2900 7th St
+robbery,	12/02/2016,None,None, 1 St.& Greensboro Ave
+robbery,	12/02/2016,None,None, 1600 29th Ave
+theft, 12/01/2016,33.200128,-87.543276, 500 14th St
+Burglary, 12/01/2016,33.2084341,-87.5493579, 3700 8th St
+theft, 12/01/2016,33.2100516296,-87.5680978148, 2400 University Blvd
+theft, 12/01/2016,33.211229,-87.562974, 500 20th Ave
+theft, Veh 12/01/2016,33.184551,-87.5489129, 3500 29th St
+theft, Veh 12/01/2016,None,None, 200 E Short 24th Ave
+Burglary, 12/01/2016,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 12/01/2016,None,None, 2600 Lanier Ave
+theft, 12/01/2016,None,None, 3400 E University Blvd
+theft, 12/01/2016,33.2106491346,-87.5518210577, 1000 University Blvd
+theft, 11/30/2016,33.2116815,-87.5695632, 1700 Greensboro Ave
+Burglary, 11/30/2016,33.2116815,-87.5695632, 2600 Greensboro Ave
+theft, 11/30/2016,None,None, 1800 E Mcfarland Blvd
+theft, 11/30/2016,None,None, 1700 Veterans Memorial Parkway
+theft, 11/30/2016,33.205875,-87.566831, 900 Greensboro Ave
+theft, 11/30/2016,None,None, 1800 E Mcfarland Blvd
+theft, 11/30/2016,33.2099500422,-87.5478880132, 800 E University Blvd
+theft, 11/30/2016,33.211161,-87.554681, 1300 University Blvd
+Burglary, 11/29/2016,None,None, 1800 41st Ave
+Burglary, 11/29/2016,33.202779,-87.550573, 1000 13th St
+theft, 11/29/2016,None,None, 2200 Veterans Memorial Parkway
+theft, 11/29/2016,None,None, 1500 Culver Rd
+theft, 11/29/2016,None,None, 3100 Stillman Blvd
+theft, 11/29/2016,None,None, 1600 E 13th Ave
+rape, 11/29/2016,33.195586,-87.5447739, 3200 18th St
+theft, 11/28/2016,None,None, 1200 E Mcfarland Blvd
+theft, 11/28/2016,33.211642,-87.566192, 2200 4th St
+theft, 11/28/2016,None,None, 500 Frank Thomas Ave
+minor In possession Of Alcohol -- Minor In possession Of Alcohol,	11/28/2016,33.2099500422,-87.5478880132, 800 University Blvd
+minor In possession Of Alcohol -- Minor In possession Of Alcohol,	11/28/2016,33.2099500422,-87.5478880132, 800 University Blvd
+theft, 11/28/2016,33.2107915557,-87.5526118634, 1100 University Blvd
+theft, Veh 11/28/2016,33.195047,-87.542046, 500 18th St
+Burglary, 11/28/2016,33.208693,-87.554675, 1300 8th St
+Burglary, 11/28/2016,None,None, 3400 E University Blvd
+theft, 11/28/2016,None,None, 900 Paul Bryant Dr
+theft, 11/28/2016,None,None, 500 Red Drew Ave
+Burglary, 11/28/2016,None,None, 900 36th Ave
+robbery,	11/27/2016,None,None, 1200 E 14th Pl
+Burglary, 11/27/2016,None,None, 1300 E 10th Ave
+Burglary, 11/27/2016,33.2041593508,-87.5560823008, 1200 Convent St
+rape, 11/27/2016,33.2041593508,-87.5560823008, 1200 Convent St
+theft, Veh 11/27/2016,33.2107915557,-87.5526118634, 1100 University Blvd
+Burglary, 11/26/2016,None,None, 2400 E 3rd St
+theft, 11/26/2016,33.207195,-87.562902, 2100 9th St
+theft, 11/26/2016,33.207195,-87.562902, 2100 9th St
+robbery,	11/26/2016,33.206826,-87.564228, 2200 9th St
+theft, 11/26/2016,None,None, 3100 Stillman Blvd
+theft, 11/26/2016,33.211815,-87.561679, 1900 University Blvd
+theft, 11/26/2016,33.209567,-87.5712662, 100 N Lurleen B Wallace Blvd
+theft, 11/26/2016,33.201852,-87.545887, 1300 7th Ave
+theft, 11/25/2016,None,None, 1700 E Mcfarland Blvd
+theft, 11/25/2016,33.2107915557,-87.5526118634, 1100 University Blvd
+theft, 11/25/2016,None,None, 1800 E Mcfarland Blvd
+theft, 11/25/2016,None,None, 1700 E Mcfarland Blvd
+theft, 11/25/2016,33.2116815,-87.5695632, 1700 Greensboro Ave
+theft, 11/24/2016,None,None, 1700 Martin Luther King Jr Blvd
+Burglary, 11/23/2016,33.195968,-87.5392859, 1100 17th St
+criminal Mischief Third Degree ($500 Or Less) -- Criminal Mischief-damage To Private Property,	11/23/2016,None,None, 3900 1st St
+theft, 11/23/2016,None,None, 1700 40th Ave
+theft, 11/21/2016,None,None, 1900 E 14th St
+theft, 11/21/2016,33.1911421875,-87.5420478437, 500 E Hargrove Rd
+theft, 11/21/2016,33.207781,-87.557193, 1500 9th St
+theft, 11/20/2016,None,None, 1700 E Mcfarland Blvd
+robbery,	11/20/2016,33.206476,-87.555105, 1000 14th Ave
+theft, 11/19/2016,None,None, 1700 E Mcfarland Blvd
+theft, 11/19/2016,None,None, 3100 Stillman Blvd
+theft, 11/19/2016,33.208784,-87.572549, 2700 E University Blvd
+theft, 11/19/2016,33.20871725,-87.57326175, 2700 University Blvd
+theft, Veh 11/18/2016,33.184551,-87.5489129, 3500 29th St
+theft, 11/18/2016,33.19582,-87.555757, 1800 14th Ave
+theft, 11/18/2016,33.193209,-87.551242, 1000 E Hargrove Rd
+theft, 11/18/2016,None,None, 1800 E Mcfarland Blvd
+criminal Trespass Third Degree -- Enters/remains In/on Premises,	11/18/2016,33.213654,-87.5622359, 1400 3rd Street
+Burglary, 11/17/2016,None,None, 1800 41st Ave
+theft, 11/17/2016,33.20455,-87.557633, 1 Oakwood Ct
+Burglary, 11/17/2016,None,None, 1 Lakeshore Dr
+theft, 11/17/2016,33.211834,-87.567662, 300 E 23rd Ave
+theft, Veh 11/17/2016,None,None, 3100 Stillman Blvd
+theft, 11/17/2016,None,None, 1900 E 13th Ave
+theft, Veh 11/17/2016,None,None, 700 Martin Luther King Jr Blvd
+Burglary, 11/17/2016,None,None, 2500 E 21st St
+Burglary, 11/17/2016,None,None, 2400 E 10th St
+Burglary, 11/16/2016,33.18723,-87.5394279, 1500 24th St
+theft, 11/16/2016,33.211815,-87.561679, 1900 University Blvd
+theft, 11/16/2016,None,None, 1700 E Mcfarland Blvd
+Burglary, 11/16/2016,None,None, 100 E Short 24th Ave
+theft, 11/15/2016,33.20595,-87.523577, 1 The Highlands
+Burglary, 11/15/2016,None,None, 2400 E 18th Ave
+theft, 11/15/2016,None,None, 1700 E Mcfarland Blvd
+theft, 11/15/2016,33.191904,-87.510959, 2000 Cross Cir
+Burglary, 11/15/2016,33.195968,-87.5392859, 1200 17th St
+theft, 11/15/2016,33.199361,-87.550811, 1000 15th St
+Burglary, 11/14/2016,None,None, 2300 Dupont Ave
+theft, 11/14/2016,33.204773,-87.544143, 600 11th St
+theft, 11/14/2016,None,None, 1700 E Mcfarland Blvd
+theft, 11/14/2016,33.210995,-87.553761, 1200 University Blvd
+robbery,	11/13/2016,33.200236,-87.537851, 200 14th St
+theft, 11/13/2016,33.2099500422,-87.5478880132, 800 E University Blvd
+possession Of A Controlled Substance -- Methamphetamine-possess,	11/13/2016,None,None, 1600 26th Ave
+theft, 11/13/2016,33.2100516296,-87.5680978148, 2400 University Blvd
+theft, Veh 11/12/2016,None,None, 1 St.& 10th Ave
+theft, Veh 11/12/2016,33.210082,-87.5589919, 1 Audubon Pl
+theft, 11/12/2016,None,None, 1700 E Mcfarland Blvd
+theft, 11/12/2016,33.191969,-87.5428929, 1300 Hargrove Rd
+Burglary, 11/12/2016,None,None, 2400 E 1st St
+theft, 11/12/2016,33.211161,-87.554681, 1300 University Blvd
+theft, 11/12/2016,33.211161,-87.554681, 1300 University Blvd
+theft, 11/11/2016,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 11/11/2016,None,None, 1700 E Mcfarland Blvd
+Burglary, 11/11/2016,33.211023,-87.564441, 2100 University Blvd
+Burglary, 11/11/2016,33.2119377879,-87.5647189299, 400 21st Ave
+Burglary, 11/11/2016,33.191969,-87.5428929, 1100 E Hargrove Rd
+theft, 11/10/2016,None,None, 1700 E Mcfarland Blvd
+theft, 11/10/2016,None,None, 2800 Martin Luther King Jr Blvd
+Burglary, 11/10/2016,None,None, 2300 E 3rd St
+theft, 11/10/2016,None,None, 1700 E Mcfarland Blvd
+theft, 11/10/2016,None,None, 1 St.& 23rd Ave
+theft, 11/10/2016,33.221462,-87.543024, 100 Old Hackberry Ln
+theft, 11/10/2016,None,None, 1700 E 18th Ave
+Burglary, 11/09/2016,None,None, 1800 41st Ave
+theft, 11/09/2016,None,None, 1700 E Mcfarland Blvd
+theft, 11/09/2016,33.211023,-87.564441, 2100 University Blvd
+theft, 11/09/2016,None,None, 2800 Short 15th St
+Burglary, 11/08/2016,33.187352,-87.539528, 300 24th St
+theft, Veh 11/08/2016,None,None, 500 Snows Mill Ave
+theft, 11/08/2016,33.195985,-87.540633, 1700 4th Ave
+theft, 11/08/2016,33.196757,-87.55096, 1700 10th Ave
+theft, 11/07/2016,33.203346,-87.54316, 1200 Hackberry Ln
+theft, 11/07/2016,33.211236,-87.567497, 2300 4th St
+Burglary, 11/07/2016,33.203695,-87.545786, 700 12th St
+theft, 11/07/2016,None,None, 4300 27th Pl
+theft, 11/07/2016,None,None, 1 Durrett Grove
+theft, 11/06/2016,33.195968,-87.5392859, 1500 17th St
+theft, 11/06/2016,33.184551,-87.5489129, 3700 29th St
+theft, 11/06/2016,33.184551,-87.5489129, 3700 29th St
+theft, 11/06/2016,33.198834,-87.541491, 400 15th St
+theft, Veh 11/05/2016,33.202865,-87.552175, 1100 E 13th St
+theft, Veh 11/05/2016,33.202865,-87.552175, 1100 E 13th St
+theft, Veh 11/05/2016,33.211071,-87.568989, 300 Greensboro Ave
+theft, 11/04/2016,None,None, 1700 E Mcfarland Blvd
+theft, 11/04/2016,33.188054,-87.5093619, 100 Circlewood
+domestic Violence Second Degree -- Aggravated Assault Family-gun,	11/04/2016,None,None, 800 Gardenwood Parkway
+theft, 11/03/2016,None,None, 1600 E 13th Ave
+theft, 11/03/2016,None,None, 1900 Of 8th Ave
+theft, 11/03/2016,None,None, 1700 E Mcfarland Blvd
+Burglary, 11/03/2016,None,None, 2100 26th Ave
+Burglary, 11/03/2016,33.211257,-87.555304, 1400 University Blvd
+theft, 11/03/2016,33.207562,-87.569094, 2500 7th St
+Burglary, 11/02/2016,None,None, 400 Ne 8th Ave
+theft, Veh 11/02/2016,33.2200048581,-87.5643788279, 200 Marina Dr
+theft, 11/02/2016,None,None, 1400 Martin Luther King Jr Blvd
+theft, 11/02/2016,None,None, 1300 E Mcfarland Blvd
+theft, 11/02/2016,33.198834,-87.541491, 400 E 15th St
+theft, 11/02/2016,None,None, 2400 E Mcfarland Blvd
+Burglary, 11/02/2016,None,None, 400 Ne 8th Ave
+theft, 11/02/2016,33.210322,-87.567108, 2300 University Blvd
+Burglary, 11/02/2016,33.2169481,-87.5475418, 2700 E 2nd St
+theft, 11/02/2016,33.195586,-87.5447739, 3200 18th St
+theft, Veh 11/02/2016,33.194662,-87.5448059, 4100 19th St
+theft, Veh 11/02/2016,33.198577,-87.52525, 1400 Gard"enia Ave
+Burglary, 11/01/2016,None,None, 2200 Fikes Ln
+Burglary, 11/01/2016,None,None, 1800 41st Ave
+theft, 11/01/2016,None,None, 1900 E 13th Ave
+theft, 11/01/2016,None,None, 400 Ne 8th Ave
+Burglary, 11/01/2016,None,None, 2300 E 1st Pl
+theft, 11/01/2016,33.210995,-87.553761, 1200 University Blvd
+theft, 11/01/2016,None,None, 1500 Culver Rd
+rape, 11/01/2016,None,None, 3800 21st St
+Burglary, 11/01/2016,None,None, 400 33rd Ave
+theft, 11/01/2016,33.197123,-87.554139, 1200 14th Ave
+theft, 11/01/2016,33.187173,-87.5451429, 4200 26th St
+theft, 11/01/2016,None,None, 1900 28th Ave
+theft, 10/31/2016,None,None, 1800 E Mcfarland Blvd
+theft, 10/31/2016,33.2057198,-87.5430748, 1500 Paul W Bryant Dr
+theft, 10/31/2016,33.191969,-87.5428929, 1100 E Hargrove Rd
+theft, 10/31/2016,None,None, 1400 Martin Luther King Jr Blvd
+theft, 10/31/2016,None,None, 1500 Kicker Rd
+theft, 10/31/2016,None,None, 1600 E 13th Ave
+Burglary, 10/31/2016,33.211937,-87.559037, 1700 University Blvd
+Burglary, 10/31/2016,33.221462,-87.543024, 100 Old Hackberry Ln
+theft, 10/31/2016,33.2116815,-87.5695632, 2200 Greensboro Ave
+rape, 10/30/2016,None,None, 2000 E 25th Ave
+Burglary, 10/30/2016,33.189583,-87.537965, 2200 Prince Ave
+theft, 10/30/2016,None,None, 2000 29th Ave
+theft, 10/30/2016,33.211257,-87.555304, 1400 University Blvd
+Burglary, 10/30/2016,33.2133472449,-87.554018357, 400 Grace St
+Burglary, 10/30/2016,33.2116815,-87.5695632, 2200 Greensboro Ave
+Burglary, 10/29/2016,None,None, 2200 Fikes Ln
+Burglary, 10/28/2016,None,None, 3400 5th St
+theft, 10/28/2016,None,None, 1700 E Mcfarland Blvd
+theft, 10/28/2016,None,None, 1 Juanita Dr
+theft, 10/28/2016,None,None, 1300 E 10th Ave
+theft, 10/28/2016,None,None, 1800 E Mcfarland Blvd
+theft, 10/27/2016,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 10/27/2016,None,None, 1700 E Mcfarland Blvd
+theft, 10/27/2016,None,None, 2500 Martin Luther King Jr Blvd
+theft, 10/27/2016,33.190994,-87.541121, 400 E Hargrove Rd
+homicide, 10/26/2016,None,None, 300 E 24th Ave
+Burglary, 10/26/2016,None,None, 2400 E 5th Pl
+theft, 10/26/2016,33.2107915557,-87.5526118634, 1100 University Blvd
+theft, 10/26/2016,33.208636,-87.553476, 1200 8th St
+theft, 10/26/2016,33.18573,-87.5548919, 4100 28th Pl
+Burglary, 10/26/2016,None,None, 1600 28th Ave
+theft, 10/25/2016,33.20851,-87.569471, 2500 6th St
+Burglary, 10/25/2016,None,None, 2300 Veterans Memorial Parkway
+theft, 10/25/2016,33.205546,-87.5543209, 1 University Cir
+theft, 10/24/2016,33.198762,-87.5431239, 3100 15th St
+Burglary, 10/24/2016,33.1911421875,-87.5420478437, 500 Hargrove Rd
+theft, 10/24/2016,33.198762,-87.5431239, 2900 15th St
+theft, 10/24/2016,None,None, 1700 E Mcfarland Blvd
+theft, 10/24/2016,None,None, 3000 Arcadia Dr
+possession Of A Controlled Substance -- possession Of Dangerous Drugs,	10/23/2016,None,None, 2400 Paul Bryant Drive
+theft, 10/23/2016,33.2057198,-87.5430748, 1200 Paul W Bryant Dr
+theft, 10/23/2016,33.200279,-87.538714, 500 Meador Dr
+theft, 10/23/2016,33.208686,-87.557138, 1500 8th St
+theft, Veh 10/23/2016,33.202865,-87.552175, 1100 E 13th St
+robbery,	10/22/2016,33.2142559563,-87.5559383189, 400 Caplewood Dr
+theft, 10/22/2016,None,None, 1700 E Mcfarland Blvd
+theft, 10/22/2016,None,None, 1700 E Mcfarland Blvd
+theft, 10/22/2016,33.2128822583,-87.5541076463, 500 Grace St
+theft, 10/22/2016,33.206384,-87.549351, 900 Paul W Bryant Dr
+theft, 10/22/2016,None,None, 1 Ave" & Paul W Bryant Dr
+theft, 10/22/2016,33.206293,-87.5474556667, 800 Paul W Bryant Dr
+theft, 10/22/2016,33.1986250253,-87.5393174697, 100 E 15th St
+theft, 10/22/2016,None,None, 800 33rd Ave
+theft, 10/22/2016,33.206093,-87.543423, 600 Paul W Bryant Dr
+Burglary, 10/22/2016,33.195968,-87.5392859, 2700 17th St
+Burglary, 10/22/2016,33.211071,-87.568989, 300 Greensboro Ave
+theft, 10/21/2016,33.184551,-87.5489129, 3500 29th St
+robbery,	10/21/2016,None,None, 1700 E Mcfarland Blvd
+theft, 10/21/2016,None,None, 3200 Hope Blvd
+theft, 10/21/2016,33.198834,-87.541491, 400 15th St
+theft, 10/21/2016,None,None, 1900 E 13th Ave
+theft, 10/21/2016,None,None, 800 Red Drew Ave
+theft, Veh 10/20/2016,None,None, 2800 Martin Luther King Jr Blvd
+theft, 10/20/2016,33.2169391463,-87.5597820268, 1800 Jack Warner Parkway
+theft, 10/20/2016,None,None, 1600 E 13th Ave
+theft, 10/20/2016,33.2200048581,-87.5643788279, 200 Marina Dr
+theft, 10/20/2016,None,None, 1600 E 13th Ave
+theft, 10/20/2016,33.19454,-87.552704, 1900 11th Ave
+Burglary, 10/20/2016,None,None, 3000 Short 19th St
+theft, 10/20/2016,None,None, 1300 E Mcfarland Blvd
+theft, 10/20/2016,33.190502506,-87.5397885525, 200 E Hargrove Rd
+theft, 10/20/2016,None,None, 3100 Dr"agons Ln
+theft, 10/19/2016,None,None, 3200 Stillman Blvd
+theft, Veh 10/19/2016,None,None, 3400 E University Blvd
+theft, 10/19/2016,None,None, 1800 E Mcfarland Blvd
+theft, 10/19/2016,33.1986475,-87.5395455, 200 E 15th St
+theft, 10/19/2016,None,None, 1200 27th Pl
+theft, 10/19/2016,None,None, 900 S Lurleen B Wallace Blvd
+theft, 10/19/2016,None,None, 3000 21st St
+theft, 10/18/2016,None,None, 1800 E Mcfarland Blvd
+rape, 10/18/2016,None,None, 3100 20th St
+Burglary, 10/18/2016,33.195968,-87.5392859, 2900 17th St
+theft, 10/18/2016,None,None, 2800 Ne Sunset Dr
+theft, Veh 10/17/2016,None,None, 2400 E Mcfarland Blvd
+theft, 10/17/2016,None,None, 1900 E 13th Ave
+theft, Veh 10/17/2016,33.197142,-87.539204, 1600 3rd Ave
+theft, 10/17/2016,33.194619,-87.537122, 100 18th St
+theft, 10/17/2016,33.203695,-87.545786, 700 12th St
+theft, 10/17/2016,None,None, 3200 E University Blvd
+Burglary, 10/16/2016,33.195968,-87.5392859, 1100 17th St
+theft, 10/16/2016,33.209699,-87.5604879, 1700 Queen City Ave
+Burglary, 10/16/2016,33.208686,-87.557138, 1500 8th St
+Burglary, 10/16/2016,33.208686,-87.557138, 1500 8th St
+theft, 10/16/2016,33.2107915557,-87.5526118634, 1100 University Blvd
+robbery,	10/15/2016,33.205257,-87.544073, 1000 6th Ave
+theft, 10/15/2016,33.2107915557,-87.5526118634, 1100 University Blvd
+theft, 10/15/2016,33.209582,-87.55716, 1500 7th St
+theft, 10/14/2016,33.1989393826,-87.5426112172, 500 15th St
+theft, Veh 10/14/2016,33.2106728,-87.5655855, 3000 E University Blvd
+theft, 10/14/2016,None,None, 1800 E Mcfarland Blvd
+theft, 10/14/2016,33.203518,-87.5199269, 100 The Highlands
+theft, 10/13/2016,33.196602,-87.5567229, 3300 Short 17th St
+Burglary, 10/13/2016,None,None, 900 29th Ave
+theft, 10/13/2016,None,None, 1600 E 13th Ave
+theft, 10/13/2016,33.2057198,-87.5430748, 1500 Paul W Bryant Dr
+Burglary, 10/13/2016,None,None, 2400 E 4th St
+theft, 10/12/2016,None,None, 1800 E Mcfarland Blvd
+theft, 10/12/2016,None,None, 800 35th Ave
+theft, 10/12/2016,33.2084341,-87.5493579, 2800 8th St
+Burglary, 10/12/2016,33.191969,-87.5428929, 1300 Hargrove Rd
+theft, 10/12/2016,None,None, 2400 E University Blvd
+theft, 10/12/2016,33.20867,-87.540701, 400 University Blvd
+theft, 10/12/2016,33.210995,-87.553761, 1200 University Blvd
+Burglary, 10/11/2016,33.210322,-87.567108, 2300 University Blvd
+theft, 10/11/2016,None,None, 1100 S Lurleen B Wallace Blvd
+robbery,	10/11/2016,None,None, 1900 E 13th Ave
+theft, 10/11/2016,33.211626,-87.557321, 1500 University Blvd
+robbery,	10/10/2016,None,None, 2000 Fosters Ferry Rd
+theft, 10/10/2016,None,None, 1000 28th Ave
+theft, 10/10/2016,None,None, 1300 E Mcfarland Blvd
+theft, 10/10/2016,33.200279,-87.538714, 500 Meador Dr
+theft, 10/10/2016,33.211035,-87.555282, 500 14th Ave
+theft, 10/10/2016,None,None, 1600 Veterans Memorial Parkway
+theft, 10/10/2016,33.20028,-87.5497229, 1 Parkview Dr
+theft, 10/10/2016,None,None, 1 Country Club Hills
+theft, 10/09/2016,33.194467,-87.551139, 1900 10th Ave
+theft, 10/09/2016,33.209669,-87.568418, 500 Greensboro Ave
+theft, Veh 10/08/2016,None,None, 2600 Lanier Ave
+theft, 10/08/2016,None,None, 1900 E 13th Ave
+Burglary, 10/08/2016,33.209678,-87.558814, 1700 7th St
+Burglary, 10/08/2016,33.210041,-87.564042, 2100 6th St
+theft, 10/08/2016,None,None, 2300 E Mcfarland Blvd
+possession Of A Controlled Substance -- Opium Or Derivative-possess,	10/08/2016,None,None, 1600 26th Ave
+theft, 10/08/2016,None,None, 2100 Jemison Ave
+theft, 10/07/2016,None,None, 1900 E 13th Ave
+theft, 10/07/2016,33.200128,-87.543276, 500 14th St
+theft, 10/07/2016,None,None, 1900 E 13th Ave
+theft, 10/07/2016,None,None, 500 Ne 7th Ave
+theft, Veh 10/07/2016,None,None, 1700 Culver Rd
+theft, 10/07/2016,33.209741,-87.56096, 1900 7th St
+theft, 10/06/2016,33.211161,-87.554681, 1300 University Blvd
+Receive St.n Pr,	10/06/2016,None,None, Queen City & 17th
+theft, 10/06/2016,33.19699,-87.555672, 1700 14th Ave
+theft, 10/06/2016,33.188592,-87.5409029, 700 E 23rd St
+theft, 10/06/2016,None,None, 2600 22nd St
+theft, 10/06/2016,33.201712,-87.552312, 1100 14th St
+theft, 10/06/2016,None,None, 800 35th Ave
+Burglary, 10/05/2016,None,None, 1 Washington Square
+theft, 10/05/2016,None,None, 500 Martin Luther King Jr Blvd
+theft, 10/05/2016,None,None, 1700 E Mcfarland Blvd
+robbery,	10/05/2016,33.191969,-87.5428929, 1300 Hargrove Rd
+Burglary, 10/04/2016,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 10/04/2016,None,None, 1300 E Mcfarland Blvd
+theft, 10/04/2016,None,None, 1900 E 13th Ave
+theft, 10/04/2016,None,None, 1700 E Mcfarland Blvd
+theft, 10/04/2016,None,None, 2600 E Mcfarland Blvd
+theft, 10/04/2016,None,None, 3200 Veterans Memorial Parkway
+Burglary, 10/04/2016,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 10/04/2016,None,None, 1900 E 13th Ave
+Burglary, 10/04/2016,None,None, 1800 E Mcfarland Blvd
+robbery,	10/04/2016,33.189474,-87.551494, 2700 10th Ave
+theft, 10/04/2016,33.191969,-87.5428929, 1100 E Hargrove Rd
+theft, 10/03/2016,33.1989393826,-87.5426112172, 500 E 15th St
+theft, 10/03/2016,None,None, 1700 E Mcfarland Blvd
+theft, 10/03/2016,None,None, 1400 E Hargrove Rd
+theft, 10/03/2016,33.191969,-87.5428929, 1100 E Hargrove Rd
+theft, 10/03/2016,None,None, 1500 Culver Rd
+theft, 10/03/2016,33.2073488764,-87.548947784, 1 The Downs
+Burglary, 10/03/2016,None,None, 2000 42nd Ave
+theft, Veh 10/03/2016,33.191969,-87.5428929, 1100 E Hargrove Rd
+Burglary, 10/03/2016,None,None, 1900 Martin Luther King Jr Blvd
+theft, 10/02/2016,None,None, 400 Ne 8th Ave
+robbery,	10/02/2016,None,None, 1700 E Mcfarland Blvd
+theft, 10/02/2016,33.211236,-87.567497, 2300 4th St
+theft, 10/02/2016,33.209968012,-87.5524460186, 1100 6th St
+robbery,	10/02/2016,None,None, 1300 E Mcfarland Blvd
+theft, 10/02/2016,33.212795,-87.5204999, 300 Helen Keller Blvd
+robbery,	10/02/2016,33.208576,-87.552351, 1100 8th St
+robbery,	10/02/2016,33.208576,-87.552351, 1100 8th St
+Receive St.n Pr,	10/02/2016,33.2054544,-87.5650062, 3200 10th St
+Burglary, 10/02/2016,33.208576,-87.552351, 1100 8th St
+theft, 10/02/2016,None,None, 1100 E 26th Ave
+Burglary, 10/01/2016,33.212795,-87.5204999, 300 Helen Keller Blvd
+robbery,	10/01/2016,None,None, 1700 40th Ave
+Burglary, 10/01/2016,33.20246,-87.54432, 600 13th St
+theft, 10/01/2016,33.210116,-87.5525579, 3400 6th St
+theft, 10/01/2016,33.20599,-87.545576, 1000 7th Ave
+theft, Veh 10/01/2016,None,None, 2400 E Mcfarland Blvd
+theft, 10/01/2016,33.211815,-87.561679, 1900 University Blvd
+theft, 10/01/2016,None,None, 1900 Dinah Washington Ave
+robbery,	10/01/2016,None,None, 3000 20th St
+robbery,	09/30/2016,33.198064,-87.5515339, 2800 16th St
+theft, 09/30/2016,None,None, 1700 E Mcfarland Blvd
+theft, 09/30/2016,None,None, 1800 E Mcfarland Blvd
+theft, 09/30/2016,33.195968,-87.5392859, 1100 17th St
+Burglary, 09/30/2016,33.1927079937,-87.5484937818, 900 Hargrove Rd
+assault Third Degree -- Simple Assault,	09/29/2016,None,None, 1200 Rice Mine Rd
+Burglary, 09/29/2016,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 09/29/2016,33.195586,-87.5447739, 2600 18th St
+theft, 09/29/2016,33.188071,-87.5451499, 3500 25th St
+Burglary, 09/28/2016,None,None, 100 E 25th Ave
+theft, 09/28/2016,None,None, 2100 E 4th Pl
+theft, 09/28/2016,33.208784,-87.572549, 2700 E University Blvd
+Burglary, 09/28/2016,33.191969,-87.5428929, 1300 Hargrove Rd
+theft, 09/28/2016,33.212795,-87.5204999, 300 Helen Keller Blvd
+theft, 09/28/2016,None,None, 1700 40th Ave
+theft, Veh 09/28/2016,None,None, 2300 E 5th Ave
+theft, 09/27/2016,None,None, 1700 E Mcfarland Blvd
+Burglary, 09/27/2016,None,None, 1500 Dinah Washington Ave
+theft, 09/27/2016,33.211161,-87.554681, 1300 University Blvd
+theft, 09/26/2016,33.2053244625,-87.5551383933, 1100 14th Ave
+Burglary, 09/26/2016,33.194662,-87.5448059, 2900 19th St
+theft, 09/26/2016,33.2133472449,-87.554018357, 400 Grace St
+theft, 09/26/2016,33.2143382293,-87.5541064725, 1300 Riverside Dr
+theft, 09/26/2016,33.208784,-87.572549, 2700 E University Blvd
+Burglary, 09/26/2016,33.215916,-87.5556389, 1 Guildswood
