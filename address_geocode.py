@@ -20,7 +20,7 @@ with open('run_results.txt') as infile:
             lon=location.longitude
         else :
             lat = None
-            long = None
+            lon = None
         list_of_apartments.write(bytes(lat))
         list_of_apartments.write(str(","))
         list_of_apartments.write(bytes(lon))

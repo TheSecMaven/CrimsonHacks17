@@ -1,0 +1,7 @@
+from geopy.geocoders import Nominatim
+import json
+from pprint import pprint
+
+outfile = open('building_permit_cleaned_up.json','w')
+
+with open('building_permit_clean.json','r')
