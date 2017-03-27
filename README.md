@@ -1,6 +1,8 @@
 # CrimsonHacks17
 
 ![alt text](/Atrocious_Apartments.png "Logo Title Text 1")
+## Check it Out!
+Visit our website (https://atrociousapartments.com/)
 
 ## Inspiration
 When you begin your search for the perfect apartment, you can view information about the security of inside the apartment. However, there isn't a way to view the surrounding area of the apartment, until now! With our hack you can select an apartment and view the crime around the area. They can see a description of what happened as well as when it happened. In addition, we have allowed for the viewing of nearby construction, through the use of building permits, for those of us who take the 2-5 daily nap and have a deep distaste for construction noise/ traffic problems. All of our data came from Tuscaloosa's Open Data Portal (https://data.tuscaloosa.com/). All of these things make the apartment hunting experience much simpler, and allows students to get all of the information that goes into an apartment decision much easier.
