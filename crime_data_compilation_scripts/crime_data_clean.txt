@@ -1,0 +1,75 @@
+Receive St.n Pr,	10/06/2016, Queen City & 17th
+theft, 10/06/2016, 1700 14th Ave
+theft, 10/06/2016, 700 E 23rd St
+theft, 10/06/2016, 2600 22nd St
+theft, 10/06/2016, 1100 14th St
+theft, 10/06/2016, 800 35th Ave
+Burglary, 10/05/2016, 1 Washington Square
+theft, 10/05/2016, 500 Martin Luther King Jr Blvd
+theft, 10/05/2016, 1700 E Mcfarland Blvd
+robbery,	10/05/2016, 1300 Hargrove Rd
+Burglary, 10/04/2016, 300 Helen Keller Blvd
+theft, 10/04/2016, 1300 E Mcfarland Blvd
+theft, 10/04/2016, 1900 E 13th Ave
+theft, 10/04/2016, 1700 E Mcfarland Blvd
+theft, 10/04/2016, 2600 E Mcfarland Blvd
+theft, 10/04/2016, 3200 Veterans Memorial Parkway
+Burglary, 10/04/2016, 300 Helen Keller Blvd
+theft, 10/04/2016, 1900 E 13th Ave
+Burglary, 10/04/2016, 1800 E Mcfarland Blvd
+robbery,	10/04/2016, 2700 10th Ave
+theft, 10/04/2016, 1100 E Hargrove Rd
+theft, 10/03/2016, 500 E 15th St
+theft, 10/03/2016, 1700 E Mcfarland Blvd
+theft, 10/03/2016, 1400 E Hargrove Rd
+theft, 10/03/2016, 1100 E Hargrove Rd
+theft, 10/03/2016, 1500 Culver Rd
+theft, 10/03/2016, 1 The Downs
+Burglary, 10/03/2016, 2000 42nd Ave
+theft, Veh 10/03/2016, 1100 E Hargrove Rd
+Burglary, 10/03/2016, 1900 Martin Luther King Jr Blvd
+theft, 10/02/2016, 400 Ne 8th Ave
+robbery,	10/02/2016, 1700 E Mcfarland Blvd
+theft, 10/02/2016, 2300 4th St
+theft, 10/02/2016, 1100 6th St
+robbery,	10/02/2016, 1300 E Mcfarland Blvd
+theft, 10/02/2016, 300 Helen Keller Blvd
+robbery,	10/02/2016, 1100 8th St
+robbery,	10/02/2016, 1100 8th St
+ Receive St.n Pr,	10/02/2016, 3200 10th St
+Burglary, 10/02/2016, 1100 8th St
+theft, 10/02/2016, 1100 E 26th Ave
+Burglary, 10/01/2016, 300 Helen Keller Blvd
+robbery,	10/01/2016, 1700 40th Ave
+Burglary, 10/01/2016, 600 13th St
+theft, 10/01/2016, 3400 6th St
+theft, 10/01/2016, 1000 7th Ave
+theft, Veh 10/01/2016, 2400 E Mcfarland Blvd
+theft, 10/01/2016, 1900 University Blvd
+theft, 10/01/2016, 1900 Dinah Washington Ave
+robbery,	10/01/2016, 3000 20th St
+robbery,	09/30/2016, 2800 16th St
+theft, 09/30/2016, 1700 E Mcfarland Blvd
+theft, 09/30/2016, 1800 E Mcfarland Blvd
+theft, 09/30/2016, 1100 17th St
+Burglary, 09/30/2016, 900 Hargrove Rd
+assault Third Degree -- Simple Assault,	09/29/2016, 1200 Rice Mine Rd
+Burglary, 09/29/2016, 300 Helen Keller Blvd
+theft, 09/29/2016, 2600 18th St
+theft, 09/29/2016, 3500 25th St
+Burglary, 09/28/2016, 100 E 25th Ave
+theft, 09/28/2016, 2100 E 4th Pl
+theft, 09/28/2016, 2700 E University Blvd
+Burglary, 09/28/2016, 1300 Hargrove Rd
+theft, 09/28/2016, 300 Helen Keller Blvd
+theft, 09/28/2016, 1700 40th Ave
+theft, Veh 09/28/2016, 2300 E 5th Ave
+theft, 09/27/2016, 1700 E Mcfarland Blvd
+Burglary, 09/27/2016, 1500 Dinah Washington Ave
+theft, 09/27/2016, 1300 University Blvd
+theft, 09/26/2016, 1100 14th Ave
+Burglary, 09/26/2016, 2900 19th St
+theft, 09/26/2016, 400 Grace St
+theft, 09/26/2016, 1300 Riverside Dr
+theft, 09/26/2016, 2700 E University Blvd
+Burglary, 09/26/2016, 1 Guildswood
