@@ -1,3 +1,10 @@
+# @Author: Miclain K <user>
+# @Date:   03-28-2017
+# @Last modified by:   user
+# @Last modified time: 03-28-2017
+#Adds Crime Data JSON Information to relevant Apartment Complexes that are within .25 miles of
+#a given apartment
+
 from geopy.distance import vincenty
 from geopy.geocoders import Nominatim
 import json
