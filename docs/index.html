@@ -2,8 +2,8 @@
 <html>
   <head>
 	<title>Atrocious Apartments</title>
-	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-	<script type="text/javascript" language="javascript" src="apartment_summary_vectors_with_crimes_and_permits.json"></script> 
+	<script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript" language="javascript" src="final_vectors.json"></script> 
 	<script type="text/javascript" language="javascript" src="crime_data_clean.json"></script>
 	<script type="text/javascript" language="javascript" src="building_permit_cleaned_up.json"></script>
     <style>
@@ -47,6 +47,10 @@
 		padding-left: 1em;
 	  }
 	  
+	  #footer{
+		float: left;  
+	  }
+	  
 	  .crime_info{
 		 font-size: .8em;
 		 
@@ -67,12 +71,14 @@
     <div id="info">
 		<div id="help-text"><h2>Select an apartment to view data</h2></div>
 		<div id="info-text"></div>
+		
+    </div>
+    <div id="footer">
 		<button onclick="toggleCrimeData()">Toggle crime data</button>
 		<button onclick="togglePermitData()">Toggle permit data</button>
 		<button onclick="toggleCrimeHeatmap()">Toggle crime heatmap</button>
 		<button onclick="togglePermitHeatmap()">Toggle permit heatmap</button>
-    </div>
-
+	</div>
     <script>
 	 
 	 
@@ -90,7 +96,7 @@
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
           zoom: 12,
-          center: new google.maps.LatLng(33.2083, -87.5504),
+          center: new google.maps.LatLng(35.139784,-89.991499),
           mapTypeId: 'roadmap'
         });
         crimeData = [];
@@ -99,8 +105,8 @@
 		permitDataShowing = false;
 		crimeHeatmapShowing = false;
 		permitHeatmapShowing = false;
-        var crime_image = "{{ url_for('static', filename='blue_pin.png') }}";
-        var permit_image = "{{ url_for('static', filename='yellow_pin.png') }}";
+        var crime_image = "blue_pin.png";
+        var permit_image = "yellow_pin.png";
         currentlyShowingCrimePins = [];
         currentlyShowingPermitPins = [];
         
@@ -117,20 +123,20 @@
 				crimes: apartmentsJson.apartments[i].crimes,
 				permits: apartmentsJson.apartments[i].permits,
 				getCrimesString: function () {
-					if(this.crimes){
+					if(this.crimes && this.crimes.length > 0){
 						var s = "";
 						for(var c = 0; c < this.crimes.length; c++)
 						{
-							s += "<p class=\"crime_info\">" + this.crimes[c].date + ": " + this.crimes[c].type + "</p>";
+							s += "<p class=\"crime_info\">" + this.crimes[c].date + ": " + this.crimes[c].name + "</p>";
 						}
 						return s;
 					}
 					else{
-						return "";
+						return "None";
 					}
 				},
 				getPermitsString: function () {
-					if(this.permits){
+					if(this.permits && this.permits.length > 0){
 						var s = "";
 						for(var c = 0; c < this.permits.length; c++)
 						{
@@ -139,7 +145,7 @@
 						return s;
 					}
 					else{
-						return "";
+						return "None";
 					}
 				},
 				
@@ -158,6 +164,7 @@
 							this.crime_markers.push(m);
 						}
 					}
+			
 					return "";
 				}, 
 				addPermitMarkers: function () {
@@ -198,13 +205,11 @@
 					this.crime_markers[c].setMap(map);
 					currentlyShowingCrimePins.push(this.crime_markers[c]);
 					}
-					for(var c = 0; c < this.permit_markers.length; c++)
-					{
-						this.permit_markers[c].setMap(map);
-						currentlyShowingPermitPins.push(this.permit_markers[c]);
-					}
-					$('#info-text').html("<h3>" + this.name + "</h3><p>" + this.address + "</p><p> Recent crimes within .25 miles:</p>" + this.getCrimesString() + "<p>Nearby construction projects (.2 miles):</p>" + this.getPermitsString());
+					
+						$('#info-text').html("<h3>" + this.name + "</h3><p>" + this.address + "</p><p> Recent crimes within .25 miles:</p>" + this.getCrimesString());
+					
 					});
+           
 					
 		}
 		var crimesHeatmapData = [];
@@ -219,9 +224,13 @@
 				icon: crime_image,
 				date: crimeDataJson.crimes[i].date,
 				type: crimeDataJson.crimes[i].type,
+				name: crimeDataJson.crimes[i].name,
+				address: crimeDataJson.crimes[i].address,
 				title: crimeDataJson.crimes[i].date + ":" + crimeDataJson.crimes[i].type
 			});
-			
+			marker.addListener('click', function() {
+					$('#info-text').html("<h3>Individual Crime Details:" + '<br><br>' + this.name + "</h3><p>" + "Occured on " + this.date +" on the  " + this.address);
+					});
 			crimeData.push(marker);
 		}
 		crimeHeatmap = new google.maps.visualization.HeatmapLayer({
@@ -324,7 +333,6 @@
 		}
 	}
 			
-
 		</script>
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAO2iIrkOKTRo68MhBw0tvD7v1XgVvwhjI&libraries=visualization&callback=initMap">
