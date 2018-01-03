@@ -36,7 +36,8 @@
 		  color: #dddddd;
 	  }
 	  #info-text {
-		
+	  	max-height: 90%;
+		overflow: auto;
 		color: #dddddd;
 		padding-left: 1em;
 	  
@@ -48,6 +49,7 @@
 	  }
 	  
 	  #footer{
+
 		float: left;  
 	  }
 	  
@@ -58,6 +60,7 @@
 	  
       /* Optional: Makes the sample page fill the window. */
       html, body {
+      	overflow: hidden;
         background: #515151;
         height: 100%;
         margin: 0;
@@ -74,10 +77,12 @@
 		
     </div>
     <div id="footer">
-		<button onclick="toggleCrimeData()">Toggle crime data</button>
-		<button onclick="togglePermitData()">Toggle permit data</button>
-		<button onclick="toggleCrimeHeatmap()">Toggle crime heatmap</button>
-		<button onclick="togglePermitHeatmap()">Toggle permit heatmap</button>
+    	<form>
+		<input type="checkbox" onclick="toggleCrimeData()" id="crime"><label for="crime">Toggle crime data</label>
+		<input type="checkbox" onclick="togglePermitData()" id="permit"><label for="permit">Toggle permit data</label>
+		<input type="checkbox" onclick="toggleCrimeHeatmap()" id="crime-heat"><label for="crime-heat">Toggle crime heatmap</label>
+		<input type="checkbox" onclick="togglePermitHeatmap()" id="permit-heat"><label for="permit-heat">Toggle permit heatmap</label>
+		</form>
 	</div>
     <script>
 	 
